@@ -1,0 +1,2919 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass moderncv
+\begin_preamble
+% Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\usepackage{standalone}
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+%\usepackage{lipsum}% Used for inserting dummy 'Lorem ipsum' text into the template
+
+% Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%\usepackage[utf8]{inputenc}
+
+%\usepackage{booktabs}
+\usepackage{fontawesome}
+\usepackage{marvosym}% For cool symbols.
+%\usepackage{hyperref}
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+
+%	NAME AND CONTACT INFORMATION SECTION
+\firstname{SURENDRA} % Your first name
+\familyname{VERMA} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+\address{Department of Aerospace Engineering}{Indian Institute of Technology Kharagpur}
+\mobile{(+91) 8436929997, (+91) 9475618023}
+%\fax{(000) 111 1113}
+%\social{github}{stefano-bragaglia}
+\email{surendraverma2501@gmail.com} 
+\homepage{https://suri2501.github.io/}{Website}
+% social link \faGithub, \faSkype, \faLinkedin,\faStackExchange, and \faStackOverflow
+\extrainfo{
+    \faGithub\href{https://github.com/suri2501}{Github} \quad
+    \faLinkedin\href{https://www.linkedin.com/in/surendraverma2501/}{Linkedin} \quad
+    \faGoogle\href{https://scholar.google.com/citations?user=wCUqwnkAAAAJ}{Google Scholar}
+}
+
+%\social[linkedin][www.linkedin.com]{name}
+% The first argument is %the url for the clickable link, the second argument is the url displayed in the %template - this allows special characters to be displayed such as the tilde in this %example
+
+\photo[70pt][0.3pt]{Suri} % The first bracket is the picture height, the second is %the thickness of the frame around the picture (0pt for no frame)
+%\quote{Not Attention, Patience is all we need.}
+
+%----------------------------------------------------------------------------------------
+
+\newcommand{\cvdoublecolumn}[2]{%
+  \cvitem[.75em]{}{%
+    \begin{minipage}[t]{\listdoubleitemcolumnwidth}#1\end{minipage}%
+    \hfill%
+    \begin{minipage}[t]{\listdoubleitemcolumnwidth}#2\end{minipage}%
+    }%
+}
+
+%\usepackage{multibbl}
+%\newcommand{\Colorhref}[3][orange]{\href{#2}{\small\color{#1}#3}}
+
+
+% \newcommand{\cvreference}[7]{%
+%     \textbf{#1}\newline% Name
+%     \ifthenelse{\equal{#2}{}}{}{\addresssymbol~#2\newline}%
+%     \ifthenelse{\equal{#3}{}}{}{#3\newline}%
+%     \ifthenelse{\equal{#4}{}}{}{#4\newline}%
+%     \ifthenelse{\equal{#5}{}}{}{#5\newline}%
+%     \ifthenelse{\equal{#6}{}}{}{\emailsymbol~\texttt{#6}\newline}%
+%     \ifthenelse{\equal{#7}{}}{}{\phonesymbol~#7}}
+\end_preamble
+\options sans, defaultbib
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\multibib subsection
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5cm
+\topmargin 3.5cm
+\rightmargin 1.5cm
+\bottommargin 2.5cm
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+makecvtitle
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Education
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2016 – 2021
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+PhD
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Department of Aerospace Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Indian Institute of Technology Kharagpur, Kharagpur, West Bengal -721302,
+ India
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+CGPA:
+\end_layout
+
+\end_inset
+
+8.00/10
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2010 – 2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Dual Degree (B.Tech + M.Tech)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Department of Aerospace Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Indian Institute of Technology Kharagpur, Kharagpur, West Bengal -721302,
+ India
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+CGPA:
+\end_layout
+
+\end_inset
+
+7.06/10
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2008
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Higher Secondary Examination
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Kiddy's Corner School
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+Gwalior
+\end_layout
+
+\end_inset
+
+Mathematics, Physics, Chemistry, English, Physical Education
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Percentage:
+\end_layout
+
+\end_inset
+
+75 %
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2006
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Secondary Examination
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Kiddy's Corner School
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+Gwalior
+\end_layout
+
+\end_inset
+
+ Mathematics, Science, Social Science, English, Sanskrit
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Percentage:
+\end_layout
+
+\end_inset
+
+77 %
+\end_layout
+
+\begin_layout Section
+Research Interest
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Materials
+\end_layout
+
+\end_inset
+
+Laminated, Sandwich, and Functionally Graded Material (FGM)
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Structures
+\end_layout
+
+\end_inset
+
+Curved and folded structures
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Methods
+\end_layout
+
+\end_inset
+
+Analytical, Finite element analysis (FEA) and Isogeometric analysis (IGA)
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Analysis
+\end_layout
+
+\end_inset
+
+
+\series bold
+Bending analysis
+\series default
+ – Stress calculation; 
+\series bold
+Dynamics analysis
+\series default
+ – Free Vibration, Transient, Steady-State; 
+\series bold
+Buckling analysis
+\series default
+ – Linearized buckling, Post-buckling, Nonlinear buckling with/without imperfect
+ion; Analysis under hygrothermal enviornment
+\end_layout
+
+\begin_layout Section
+Skills
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Programming
+\end_layout
+
+\end_inset
+
+C, C++, Python, MATLAB, Mathematica, R, CLISP
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Scripting
+\end_layout
+
+\end_inset
+
+Latex, HTML,CSS, JavaScript, PHP, MySQL, React, ReactNative
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Tools
+\end_layout
+
+\end_inset
+
+LyX, Inkscape, Git, GitHuB, Photoshop, Blender
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Package
+\end_layout
+
+\end_inset
+
+ANSYS
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Platform
+\end_layout
+
+\end_inset
+
+Windows, Linux (Ubuntu, Fedora)
+\end_layout
+
+\begin_layout Section
+Professional Experience
+\end_layout
+
+\begin_layout Subsection
+Toronto Metropolitan University
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Nov, 2022 – Present
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Post-Doctoral Research Fellow
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Department of Mechanical and Industrial Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+Toronto Metropolitan University
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+Toronto, Ontario, Canada
+\end_layout
+
+\end_inset
+
+Finite element analysis of rotating structures under thermal environment.
+ 
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Advisor:
+\end_layout
+
+\end_inset
+
+Dr.
+ Donatus Oguamanam (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://www.torontomu.ca/mechanical-industrial/people/faculty/donatus-oguamanam/"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+) 
+\end_layout
+
+\begin_layout Subsection
+Punjab Engineering College
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+27, July, 2022 – Present
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Assistant Professor on contract
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Aerospace Engineering Department
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+Punjab Engineering College
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+Chandigarh, India
+\end_layout
+
+\end_inset
+
+My responsiblity includes performing administrative responsibility, research
+ work, and teaching to both under gradate and post-graduate student in the
+ aerospace engineering department.
+\end_layout
+
+\begin_layout Subsection
+Indian Institute of Technology Kharagpur
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+July, 2016 – Nov, 2021
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Teaching Assistant during PhD
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Department of Aerospace Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+Indian Institute of Technology Kharagpur
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+Kharagpur, West Bengal, India
+\end_layout
+
+\end_inset
+
+Teaching assistant in various undergraduate courses: Finite Element Methods,
+ Aerospace Structure, Mechanics, Aerospace Structure, and Structure laboratory
+ 
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Instructor:
+\end_layout
+
+\end_inset
+
+
+\series bold
+Prof.
+ B.
+ N.
+ Singh, Prof.
+ D.
+ K.
+ Maiti, Dr.
+ M.
+ K.
+ Laha, Dr.
+ Mira Mitra, Dr.
+ Anup Ghosh, and Dr.
+ Akshay Prakash
+\series default
+ (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "http://www.iitkgp.ac.in/department/AE"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+) 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+July, 2014 – May, 2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Teaching Assistant during Dual Degree
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Department of Aerospace Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+Indian Institute of Technology Kharagpur
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+Kharagpur, West Bengal, India
+\end_layout
+
+\end_inset
+
+Teaching assistant in two undergraduate courses: Mechanics and Engineering
+ Drawing
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Instructor:
+\end_layout
+
+\end_inset
+
+
+\series bold
+Dr.
+ M.
+ K.
+ Laha, and Dr.
+ Anup Ghosh
+\series default
+ (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "http://www.iitkgp.ac.in/department/AE"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+) 
+\end_layout
+
+\begin_layout Section
+Research Experience
+\end_layout
+
+\begin_layout Subsection
+Toronto Metropolitan University
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Nov, 2022 – Present
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Post-Doctoral Research Fellow
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Department of Mechanical and Industrial Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+Toronto Metropolitan University
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+Toronto, Ontario, Canada
+\end_layout
+
+\end_inset
+
+Finite element analysis of rotating structures under thermal environment.
+ 
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Advisor:
+\end_layout
+
+\end_inset
+
+Dr.
+ Donatus Oguamanam (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://www.torontomu.ca/mechanical-industrial/people/faculty/donatus-oguamanam/"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+) 
+\end_layout
+
+\begin_layout Subsection
+Indian Institute of Technology Kharagpur
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+15, Dec, 2022 – 25, July, 2022
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Research Intern
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Worked on structural modeling and analysis of bending and buckling analysis
+ of multilayered composite structures using Deep-Learning.
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Advisor :
+\end_layout
+
+\end_inset
+
+
+\series bold
+Dr.
+ Pawan Goyal
+\series default
+ (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "http://www.iitkgp.ac.in/department/CS/faculty/cs-pawang"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+)
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+July, 2016 – Non, 2021
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+PhD Thesis
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Nonlinear Bending and Buckling Analysis of Laminated and Sandwich Curved
+ Panels in Hygrothermal Environment
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Geometrically nonlinear finite element model is developed for the bending
+ and buckling analysis of multilayered composite curved panel under hygrothermal
+ envioronment.
+ 
+\begin_inset Newline newline
+\end_inset
+
+A generalized C0 finite element model is formulated and coded into MATLAB
+ for nonpolynomial shear deformation theory (NPSDT) incorporating both von
+ Karman and Green-Lagrange nonlinearity.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Predicted the bending response of curved composite panel using inverse hyperboli
+c shear deformation theory (IHSDT) and third-order shear deformation theory(TSDT
+).
+ 
+\begin_inset Newline newline
+\end_inset
+
+Linear buckling, post-buckling, and nonlinear buckling response subjected
+ to mechanical in-plane load and thermal load is analyzed extensively.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Navier type analytical and 3D elasticity results are also obtained for composite
+ plates and panels to validate the accuracy of present FEM results.
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Advisor :
+\end_layout
+
+\end_inset
+
+
+\series bold
+Prof.
+ B.
+ N.
+ Singh
+\series default
+ (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "http://www.iitkgp.ac.in/department/AE/faculty/ae-bnsingh"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+) and 
+\series bold
+Prof.
+ D.
+ K.
+ Maiti
+\series default
+ (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "http://www.iitkgp.ac.in/department/AE/faculty/ae-dkmaiti"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+) 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+July, 2014 – May, 2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+M.Tech Thesis
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Development of Flat Shell Element
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Developed MATLAB program for flat shell element using superimposition of
+ in-plane and bending effect.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Analyzed Standard Benchmarked problems using developed four noded quadrilateral
+ flat shell element.
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Advisor :
+\end_layout
+
+\end_inset
+
+
+\series bold
+Dr.
+ Anup Ghosh
+\series default
+, 
+\shape italic
+Associate Professor (
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "http://www.iitkgp.ac.in/department/AE/faculty/ae-anup"
+literal "false"
+
+\end_inset
+
+
+\color inherit
+)
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+July, 2013 – May, 2014
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+B.Tech Thesis
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Free Vibration and Buckling Analysis of Beam and Plate Structure
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Developed MATLAB program to find natural frequency and mode shapes of beams
+ and plates.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Developed MATLAB program to find critical buckling load for beam and plates
+ under different boundary conditions.
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Advisor :
+\end_layout
+
+\end_inset
+
+
+\series bold
+Prof.
+ P.
+ K.
+ Datta
+\series default
+ 
+\shape italic
+(Retired)
+\end_layout
+
+\begin_layout Section
+Patent
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Filled
+\end_layout
+
+\end_inset
+
+
+\series bold
+A holder for stirrer
+\series default
+, Inventor: Rabindra Prasad; Co-Inventors: Harikishor Kumar, Parshant Kumar,
+ Abha Gupta, and Surendra Verma.
+ Application No.
+ 202211036036
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+To be filled
+\end_layout
+
+\end_inset
+
+
+\series bold
+Fabrication of Low-Cost Localized Metallic Foam via Friction Stir Processing
+\series default
+, Inventor: Rabindra Prasad; Co-Inventors: Harikishor Kumar, Parshant Kumar,
+ Abha Gupta, Surendra Verma, and Nitesh Kumar Sinha.
+\end_layout
+
+\begin_layout Section
+Publications
+\end_layout
+
+\begin_layout Subsection
+Journal Articles
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "journal"
+options "plainyrrev"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+In Conference Proceedings
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "conference"
+options "plainyrrev"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Short Term Courses/ Webinar Attended
+\end_layout
+
+\begin_layout Subsection
+NIT Warangal, Dept.
+ of Mechanical Engineering
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Nov, 11 – 15, 2019
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+GIAN Course on Isogeometric analysis (IGA): Basis and Advanced Application
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Lecture was delivered by the pioneer of Isogeometric Analysis, Prof.
+ A.
+ Reali of the University of Pavia, Italy.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Learned the nuances of the advanced Isogeometric Analysis approach.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Awarded Grade B.
+\end_layout
+
+\begin_layout Subsection
+IIT Hyderabad, Dept.
+ of Civil Engineering
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Feb, 19 – 21, 2020
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Short course on Nonlocal Mechanics Approaches for Modelling Localized Deformatio
+ns (NMAMLD)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Lecture was delivered by the Prof.
+ J.
+ N.
+ Reddy of the University of Texas, College Station, USA.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Learned about the basic of the non-classical continuum to model the mechanics
+ of the nano structures.
+\end_layout
+
+\begin_layout Section
+Awards/ Honors/ Fellowships/ Recognitions/ Contribution
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Reviewer of peer reviewed SCI journal: Mechanics of Advanced Composite Structure
+s (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://macs.semnan.ac.ir/"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+)
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+2016-2021
+\end_layout
+
+\end_inset
+
+MHRD fellowship during PhD program
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+2014-2015
+\end_layout
+
+\end_inset
+
+MHRD fellowship during Dual Degree program
+\end_layout
+
+\begin_layout Section
+Position of Responsibility
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+April, 2013 – July, 2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Website Coordinator of Department of Aerospace Engineering for 3 years
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Jan, 2013 – May, 2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Website Head of RK Hall of Residence for 2 year
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+July, 2012 – May, 2013
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Mess Auditor and Vice-Captain of Illumination of RK Hall of residence for
+ 1 year
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+27, Jan, 2012 – 30, Jan, 2012
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Sub Head of Annual Techno Management Fest of IIT Kharagpur in 2nd year
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Internships and Projects
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+May, 2013
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Summer Intership
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+HAL Kanpur
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Gained experience about the various manufacturing and testing of the different
+ composite structural components.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Sept, 2013
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Trainee
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Department of Aerospace Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+IIT Kanpur
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Gained hand on experience on demonstration of stability modes such as phugoid
+ mode, Dutch roll, stalling and controls of propeller aircraft Hansa-3.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Calculated centre of gravity, neutral point, maneuvering point, rate of
+ climb and side slip coefficient for propeller aircraft Hansa-3 and Cessna.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+July, 2014 – May, 2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Inventory Management Software
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+Department of Aerospace Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+IIT Kharagpur
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Developed offline UI using PHP which allows lab in-charge to keep records
+ of all issued items to students and allow modification to items data and
+ user accounts.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Established system is currently handing data of 400 students in Aero modelling
+ Laboratory, Department of Aerospace, IIT Kharagpur.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Jan, 2013 – March, 2013
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Mess Monitoring System
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+RK Hall
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+IIT Kharagpur
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Developed Java Software using Swing which process and records inputs data
+ through smart card.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Engineered input device to read QR code data using cam and convert it to
+ input format to the software.
+ 
+\begin_inset Newline newline
+\end_inset
+
+After successfully implementation, system able to cut costs by INR 210000
+ in a year
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Jan, 2013 – March, 2013
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Library Management System
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+RK Hall
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+IIT Kharagpur
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Designed an online user interface using PHP allowing user to list issued/reserve
+d/available in hall library.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Established system was used by 630 students in Radhakrishnan Halls of residence,
+ IIT Kharagpur.
+\end_layout
+
+\begin_layout Section
+Memberships
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Aeronautical Society of India
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+The institution of Engineers (India)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Extra-Curricular Activities
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2022
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Sarathi Academy
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Developing free education material for students (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://sarathiacademy.com"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2017
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Susamskar Foundation
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+Working with Susamskar Foundation, an NGO, which instill the value education
+ in the young minds (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "http://www.susamskar.com"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+References
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="right" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "l"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "3.6in"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Dr.
+ B.
+ N.
+ Singh
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\shape italic
+Professor
+\shape default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\shape italic
+Department of Aerospace Engineering
+\shape default
+ 
+\begin_inset Newline newline
+\end_inset
+
+ Indian Institute of Technology Kharagpur
+\begin_inset Newline newline
+\end_inset
+
+ Kharagpur, West Bengal - 721302, India
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+Letter
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "bnsingh@aero.iitkgp.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "l"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "3.6in"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Dr.
+ D.
+ K.
+ Maiti
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\shape italic
+Professor
+\shape default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\shape italic
+Department of Aerospace Engineering
+\shape default
+ 
+\begin_inset Newline newline
+\end_inset
+
+ Indian Institute of Technology Kharagpur
+\begin_inset Newline newline
+\end_inset
+
+ Kharagpur, West Bengal - 721302, India
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+Telefon
+\backslash
+ +(601) 877-6236
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+Letter
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "dkmaiti@aero.iitkgp.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "l"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "3.6in"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Dr.
+ Pawan Goyal
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\shape italic
+Associate Professor
+\shape default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\shape italic
+Department of Computer Science and Engineering
+\shape default
+ 
+\begin_inset Newline newline
+\end_inset
+
+ Indian Institute of Technology Kharagpur
+\begin_inset Newline newline
+\end_inset
+
+ Kharagpur, West Bengal - 721302, India
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+Letter
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "pawang@cse.iitkgp.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "l"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "3.6in"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Dr.
+ Donatus Oguamanam
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\shape italic
+Associate Professor
+\shape default
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\shape italic
+Department of Mechanical and Industrial Engineering
+\shape default
+ 
+\begin_inset Newline newline
+\end_inset
+
+ Toronto Metropolitan University
+\begin_inset Newline newline
+\end_inset
+
+ 350 Victoria Street, Toronto, ON - M5B 2K3, Canada
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+Letter
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "doguaman@ryerson.ca"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
