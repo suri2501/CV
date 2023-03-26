@@ -1489,22 +1489,6 @@ options "plainyrrev"
 \end_layout
 
 \begin_layout Subsection
-Book Chapters
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-btprint "btPrintAll"
-bibfiles "chapter"
-options "plainyrrev"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
 In Conference Proceedings
 \end_layout
 
