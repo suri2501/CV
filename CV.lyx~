@@ -935,93 +935,6 @@ Research Experience
 \end_layout
 
 \begin_layout Subsection
-Toronto Metropolitan University
-\end_layout
-
-\begin_layout Entry
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-1, Dec, 2022 – Present
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status collapsed
-
-\begin_layout Plain Layout
-Post-Doctoral Research Fellow
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 3
-status collapsed
-
-\begin_layout Plain Layout
-Department of Mechanical and Industrial Engineering
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 4
-status collapsed
-
-\begin_layout Plain Layout
-Toronto Metropolitan University
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 5
-status collapsed
-
-\begin_layout Plain Layout
-Toronto, Ontario, Canada
-\end_layout
-
-\end_inset
-
-Finite element analysis of rotating structures under thermal environment.
- 
-\end_layout
-
-\begin_layout Item
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Advisor:
-\end_layout
-
-\end_inset
-
-Dr.
- Donatus Oguamanam (
-\shape italic
-\color orange
-
-\begin_inset CommandInset href
-LatexCommand href
-name "Website"
-target "https://www.torontomu.ca/mechanical-industrial/people/faculty/donatus-oguamanam/"
-literal "false"
-
-\end_inset
-
-
-\shape default
-\color inherit
-) 
-\end_layout
-
-\begin_layout Subsection
 Indian Institute of Technology Kharagpur
 \end_layout
 
@@ -1529,7 +1442,7 @@ Awards/ Honors/ Fellowships/ Recognitions/ Contribution
 status open
 
 \begin_layout Plain Layout
--
+*
 \end_layout
 
 \end_inset
@@ -1651,7 +1564,7 @@ Technical Committee Member of 35th National Convention of Aerospace Engineers
 status open
 
 \begin_layout Plain Layout
-Punjab Engineering College
+Punjab Engineering College, Chandigarh
 \end_layout
 
 \end_inset
@@ -1718,7 +1631,7 @@ Website Head of 35th National Convention of Aerospace Engineers and National
 status open
 
 \begin_layout Plain Layout
-Punjab Engineering College
+Punjab Engineering College, Chandigarh
 \end_layout
 
 \end_inset
@@ -1977,6 +1890,74 @@ Short Term Courses/ Webinar Attended
 \end_layout
 
 \begin_layout Subsection
+IIT Hyderabad, Dept.
+ of Civil Engineering
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Feb, 19 – 21, 2020
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+Short course on Nonlocal Mechanics Approaches for Modelling Localized Deformatio
+ns (NMAMLD)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Lecture was delivered by the Prof.
+ J.
+ N.
+ Reddy of the University of Texas, College Station, USA.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Learned about the basic of the non-classical continuum to model the mechanics
+ of the nano structures.
+\end_layout
+
+\begin_layout Subsection
 NIT Warangal, Dept.
  of Mechanical Engineering
 \end_layout
@@ -2044,74 +2025,6 @@ Learned the nuances of the advanced Isogeometric Analysis approach.
 \end_inset
 
 Awarded Grade B.
-\end_layout
-
-\begin_layout Subsection
-IIT Hyderabad, Dept.
- of Civil Engineering
-\end_layout
-
-\begin_layout Entry
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Feb, 19 – 21, 2020
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status collapsed
-
-\begin_layout Plain Layout
-Short course on Nonlocal Mechanics Approaches for Modelling Localized Deformatio
-ns (NMAMLD)
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 3
-status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 4
-status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 5
-status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-Lecture was delivered by the Prof.
- J.
- N.
- Reddy of the University of Texas, College Station, USA.
- 
-\begin_inset Newline newline
-\end_inset
-
-Learned about the basic of the non-classical continuum to model the mechanics
- of the nano structures.
 \end_layout
 
 \begin_layout Section
