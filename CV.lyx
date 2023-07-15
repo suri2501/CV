@@ -1454,6 +1454,28 @@ Reviewer of peer reviewed SCI journal:
 \begin_inset space \qquad{}
 \end_inset
 
+Journal of Aerospace Engineering (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://ascelibrary.org/journal/jaeeez"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+)
+\end_layout
+
+\begin_layout Item
+\begin_inset space \qquad{}
+\end_inset
+
 Mechanics of Composite Materials (
 \shape italic
 \color orange

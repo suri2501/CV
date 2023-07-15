@@ -35,7 +35,7 @@
 % All information in this block is optional, comment out any lines you don't need
 \title{Curriculum Vitae}
 \address{Department of Mechanical and Industrial Engineering}{Toronto Metropolitan University}
-\mobile{(+91) 8436929997, (+1) 5799851488}
+\mobile{(+91) 8436929997, (+1) 6476579151}
 %\fax{(000) 111 1113}
 %\social{github}{stefano-bragaglia}
 \email{surendraverma2501@gmail.com} 
@@ -215,7 +215,7 @@ Department of Aerospace Engineering
 
 
 \begin_inset Argument 4
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -463,7 +463,7 @@ Materials
 
 \end_inset
 
-Laminated, Sandwich, and Functionally Graded Material (FGM)
+Laminated, Sandwich, and Functionally Graded Material (FGM), Piezoelectric
 \end_layout
 
 \begin_layout Item
