@@ -188,7 +188,22 @@ Education
 status open
 
 \begin_layout Plain Layout
-2016 – 2021
+12 July 2016 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+15 Nov 2021
 \end_layout
 
 \end_inset
@@ -205,10 +220,10 @@ PhD
 
 
 \begin_inset Argument 3
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Department of Aerospace Engineering
+Composite Structures
 \end_layout
 
 \end_inset
@@ -229,8 +244,20 @@ status open
 
 \begin_layout Plain Layout
 
+\series bold
+Thesis
+\series default
+: 14 Dec 2021, 
+\series bold
+Viva-Voce
+\series default
+ 6 June 2022
 \end_layout
 
+\end_inset
+
+Department of Aerospace Engineering
+\begin_inset Newline newline
 \end_inset
 
 Indian Institute of Technology Kharagpur, Kharagpur, West Bengal -721302,
@@ -255,7 +282,22 @@ CGPA:
 status open
 
 \begin_layout Plain Layout
-2010 – 2015
+July 2010 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+Dec 2015
 \end_layout
 
 \end_inset
@@ -275,7 +317,7 @@ Dual Degree (B.Tech + M.Tech)
 status open
 
 \begin_layout Plain Layout
-Department of Aerospace Engineering
+Aerospace Engineering
 \end_layout
 
 \end_inset
@@ -292,12 +334,16 @@ status collapsed
 
 
 \begin_inset Argument 5
-status collapsed
+status open
 
 \begin_layout Plain Layout
-
+Degree 30 July 2016
 \end_layout
 
+\end_inset
+
+Department of Aerospace Engineering
+\begin_inset Newline newline
 \end_inset
 
 Indian Institute of Technology Kharagpur, Kharagpur, West Bengal -721302,
@@ -322,7 +368,7 @@ CGPA:
 status open
 
 \begin_layout Plain Layout
-2008
+19 May 2010
 \end_layout
 
 \end_inset
@@ -388,14 +434,14 @@ Percentage:
 status open
 
 \begin_layout Plain Layout
-2006
+29 May 2008
 \end_layout
 
 \end_inset
 
 
 \begin_inset Argument 2
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Secondary Examination
@@ -600,7 +646,22 @@ Toronto Metropolitan University
 status open
 
 \begin_layout Plain Layout
-1, Dec, 2022 – Present
+1, Dec, 2022 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+Present
 \end_layout
 
 \end_inset
@@ -687,7 +748,22 @@ Punjab Engineering College
 status open
 
 \begin_layout Plain Layout
-27, July, 2022 – 30, Nov, 2022
+27, July, 2022 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+30, Nov, 2022
 \end_layout
 
 \end_inset
@@ -746,7 +822,22 @@ Indian Institute of Technology Kharagpur
 status open
 
 \begin_layout Plain Layout
-July, 2016 – Nov, 2021
+July, 2016 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+Nov, 2021
 \end_layout
 
 \end_inset
@@ -845,7 +936,22 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-July, 2014 – May, 2015
+July, 2014 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+May, 2015
 \end_layout
 
 \end_inset
@@ -943,7 +1049,22 @@ Indian Institute of Technology Kharagpur
 status open
 
 \begin_layout Plain Layout
-15, Dec, 2022 – 25, July, 2022
+15, Dec, 2022 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+25, July, 2022
 \end_layout
 
 \end_inset
@@ -1030,7 +1151,22 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-July, 2016 – Non, 2021
+July, 2016 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+Nov, 2021
 \end_layout
 
 \end_inset
@@ -1169,7 +1305,22 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-July, 2014 – May, 2015
+July, 2014 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+May, 2015
 \end_layout
 
 \end_inset
@@ -1262,7 +1413,22 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-July, 2013 – May, 2014
+July, 2013 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+May, 2014
 \end_layout
 
 \end_inset
@@ -1454,7 +1620,29 @@ Reviewer of peer reviewed SCI journal:
 \begin_inset space \qquad{}
 \end_inset
 
-Journal of Aerospace Engineering (
+Thin-Walled Structures, Elsevier (
+\shape italic
+\color orange
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://www.sciencedirect.com/journal/thin-walled-structures"
+literal "false"
+
+\end_inset
+
+
+\shape default
+\color inherit
+)
+\end_layout
+
+\begin_layout Item
+\begin_inset space \qquad{}
+\end_inset
+
+Journal of Aerospace Engineering, ASCE (
 \shape italic
 \color orange
 
@@ -1476,7 +1664,7 @@ literal "false"
 \begin_inset space \qquad{}
 \end_inset
 
-Mechanics of Composite Materials (
+Mechanics of Composite Materials, Springer (
 \shape italic
 \color orange
 
@@ -1498,7 +1686,7 @@ literal "false"
 \begin_inset space \qquad{}
 \end_inset
 
-Mechanics of Advanced Composite Structures (
+Mechanics of Advanced Composite Structures, Semnan University (
 \shape italic
 \color orange
 
@@ -1561,10 +1749,25 @@ Position of Responsibility
 
 \begin_layout Entry
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Aug, 2022 – 30, Nov, 2022
+Aug, 2022 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+30, Nov, 2022
 \end_layout
 
 \end_inset
@@ -1629,10 +1832,25 @@ literal "false"
 
 \begin_layout Entry
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Aug, 2022 – 30, Nov, 2022
+Aug, 2022 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+30, Nov, 2022
 \end_layout
 
 \end_inset
@@ -1696,10 +1914,25 @@ literal "false"
 
 \begin_layout Entry
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
-April, 2013 – July, 2015
+April, 2013 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+July, 2015
 \end_layout
 
 \end_inset
@@ -1749,10 +1982,25 @@ status collapsed
 
 \begin_layout Entry
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Jan, 2013 – May, 2015
+Jan, 2013 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+May, 2015
 \end_layout
 
 \end_inset
@@ -1802,10 +2050,25 @@ status collapsed
 
 \begin_layout Entry
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
-July, 2012 – May, 2013
+July, 2012 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+May, 2013
 \end_layout
 
 \end_inset
@@ -1856,10 +2119,25 @@ status collapsed
 
 \begin_layout Entry
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
-27, Jan, 2012 – 30, Jan, 2012
+27, Jan, 2012 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+30, Jan, 2012
 \end_layout
 
 \end_inset
@@ -1904,6 +2182,243 @@ status collapsed
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Section
+Course Taught
+\end_layout
+
+\begin_layout Subsection
+UG Courses at PEC Chandigarh
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+resizebox{1.0
+\backslash
+textwidth}{!}{
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="6">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="5text%">
+<column alignment="center" valignment="top" width="30text%">
+<column alignment="center" valignment="top" width="15text%">
+<column alignment="center" valignment="top" width="15text%">
+<column alignment="center" valignment="top" width="10text%">
+<column alignment="center" valignment="top" width="15text%">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+S.
+ No.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Course Title & Code
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+No.of Times
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Autumn
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Spring
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Developed by me
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Solid Mechanics
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2022
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+No
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Vibration and Aeroelasticity
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2022
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+No
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
@@ -2172,7 +2687,22 @@ Calculated centre of gravity, neutral point, maneuvering point, rate of
 status open
 
 \begin_layout Plain Layout
-July, 2014 – May, 2015
+July, 2014 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+May, 2015
 \end_layout
 
 \end_inset
@@ -2233,7 +2763,22 @@ Established system is currently handing data of 400 students in Aero modelling
 status open
 
 \begin_layout Plain Layout
-Jan, 2013 – March, 2013
+Jan, 2013 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+March, 2013
 \end_layout
 
 \end_inset
@@ -2299,7 +2844,22 @@ After successfully implementation, system able to cut costs by INR 210000
 status open
 
 \begin_layout Plain Layout
-Jan, 2013 – March, 2013
+Jan, 2013 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+March, 2013
 \end_layout
 
 \end_inset
@@ -2962,7 +3522,7 @@ separation "3pt"
 shadowsize "4pt"
 framecolor "black"
 backgroundcolor "none"
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -3018,7 +3578,7 @@ Letter
 
 \begin_inset CommandInset href
 LatexCommand href
-target "doguaman@ryerson.ca"
+target "doguaman@torontomu.ca"
 type "mailto:"
 literal "false"
 

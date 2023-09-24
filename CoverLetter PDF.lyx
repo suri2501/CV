@@ -1,0 +1,185 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Dear Sir/Madam,
+\end_layout
+
+\begin_layout Standard
+I, Surendra Verma, wish to apply for the post-doctoral position corresponding
+ to your post on iMechanics (https://imechanica.org/node/26796).
+ I did my graduate and post-graduatione in 2015 from the Department of Aerospace
+ Engineering at IIT Kharagpur (https://www.iitkgp.ac.in/), a premier institute
+ in India.
+ I have done my Ph.D.
+ in the area of composite structures from the same institute in December
+ 2021.
+ After that, I have done a research internship in the field of Deep learning
+ under Dr.
+ Pawan Goyal in the Department of Computer Science Engineering, IIT Kharagpur
+ for eight months.
+ I have also worked as an Assistant professor at Punjab Engineering College
+ (https://pec.ac.in/) on a contract basis for one semester before moving to
+ Toronto, Canada.
+ Currently, I am a post-doctoral research fellow in the Department of Mechanical
+ and Industrial Engineering at Toronto Metropolitan University, Toronto,
+ Canada.
+\end_layout
+
+\begin_layout Standard
+My research area of interest is related to the linear and nonlinear analysis
+ of flat, folded, curved panels made of advanced composite material (laminated,
+ sandwich, functionally graded material, piezoelectric) using Isogeometric
+ and finite element methods.
+ Particularly, I deal with bending, vibration, transient, harmonic, and
+ buckling analysis in dry and hydrothermal environments.
+\end_layout
+
+\begin_layout Standard
+During my Ph.D.
+ tenure, I extensively worked on the nonlinear bending and buckling analysis
+ of laminated and sandwich curved panels in hygrothermal environment.
+ I have used finite element analysis in conjunction with equivalent higher-order
+ shear deformation shell theory.
+ As a part of my Ph.D., I demonstrated three major contributions to the structural
+ analysis.
+ (1) Geometrically nonlinear bending analysis of composite plates – I have
+ compared von Karman and Green-Lagrange nonlinearities for different plate
+ structures under different boundary conditions.
+ I have suggested to used Green-Lagrange nonlinearity by showing the error
+ difference in the von Karman results for at least one free edge condition,
+ which is common in aircraft structures.
+ (2) Buckling analysis of composite plates – I have proposed a systematic
+ approach for buckling analysis without the preassumption of uniform loading.
+ Particularly, the effect of pre-buckling boundary conditions and Green-Lagrange
+ stress stiffening is analyzed.
+ A comprehensive comparison between different linear and nonlinear buckling
+ approaches is also made.
+ I have suggested using nonlinear buckling approaches with Green-Lagrange
+ nonlinearity for reliable prediction of buckling and post-buckling responses.
+ (3) Bending and buckling analysis of curved panels – I investigated the
+ bending and buckling solution under different transverse and inplane loads
+ with/without hygrothermal environment.
+ A shell model is proposed, which is based on generalized equivalent higher-orde
+r shear deformation shell theory.
+ I have used a curved shell element for this study instead of flat and degenerat
+ed shell elements.
+\end_layout
+
+\begin_layout Standard
+I am currently working on analyzing rotating structures under Prof.
+ Donatus Oguamanam (https://www.torontomu.ca/mechanical-industrial/people/faculty/
+donatus-oguamanam/).
+ Moreover, I am also extending my Ph.D.
+ works for the functionally graded materials in collaboration with my IIT
+ Kharagpur junior.
+ Apart from this, I am also trying to do structural analysis through a deep
+ learning approach.
+ My future research interest is to develop various open-source modules to
+ do different types of structural analysis in the field of solid mechanics.
+ My GitHub repository contains my source codes related to my work (https://githu
+b.com/suri2501).
+\end_layout
+
+\begin_layout Standard
+By virtue of my Ph.D.
+ work, I have gained considerable experience in structural analysis and
+ tools.
+ I have extensively coded the finite element program in MATLAB for all these
+ works and compared it with Navier, 3D Elasticity, and ANSYS solutions to
+ validate the approach.
+ I am skilled in Mathematica, C, C++, and Python, with data structure and
+ algorithms knowledge.
+ Moreover, I have strong knowledge of the Isogeometric approach.
+ If I get an opportunity to work in your research group, I can work on Topology
+ optimization using a level-set approach via Isogeometric.
+ 
+\end_layout
+
+\begin_layout Standard
+My kin interest in the above-mentioned areas and prior experience with various
+ skills will greatly benefit me in realizing the work at hand.
+ My CV is enclosed, along with a list of my published works and references.
+ 
+\end_layout
+
+\begin_layout Standard
+Thank you for giving your time.
+\end_layout
+
+\end_body
+\end_document

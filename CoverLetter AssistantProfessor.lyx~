@@ -1,0 +1,328 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extarticle
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "times" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2.5cm
+\rightmargin 2cm
+\bottommargin 2.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Dear Members of the Search Committee,
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I am writing to apply for the position of Assistant Professor in the Department
+ of Mechanical and Aerospace Engineering at IITRAM, Ahmedabad.
+ I have done my graduation and post-graduation, and doctorate from the Departmen
+t of Aerospace Engineering at IIT Kharagpur (
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://www.iitkgp.ac.in"
+literal "false"
+
+\end_inset
+
+).
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+After that, I have done a research internship in the field of Deep learning
+ under the mentorship of Dr.
+ Pawan Goyal in the Department of Computer Science Engineering, IIT Kharagpur
+ for eight months.
+ 
+\end_layout
+
+\end_inset
+
+ Then, I  worked as a Temporary Assistant Professor in the Aerospace Engineering
+ Department at Punjab Engineering College, Chandigarh (
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://pec.ac.in"
+literal "false"
+
+\end_inset
+
+) for one semester.
+ Currently, I am a Post-Doctoral Research Fellow in the Department of Mechanical
+ and Industrial Engineering at Toronto Metropolitan University, Toronto,
+ Canada (
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://www.torontomu.ca/"
+literal "false"
+
+\end_inset
+
+) since December 2021.
+ I am extremely interested in obtaining a faculty position at IITRAM, Ahmedabad,
+ where I can contribute to its focus on engineering education, continue
+ my research in the field of computational mechanics, and lead campus and
+ professional service activities.
+ My academic training and years of experience have prepared me to be an
+ effective researcher and instructor in the Department of Mechanical and
+ Aerospace Engineering.
+ 
+\end_layout
+
+\begin_layout Standard
+My research area of interest is related to the linear and nonlinear analysis
+ of flat, folded, curved panels made of advanced composite materials (laminated,
+ sandwich, functionally graded material, piezoelectric, variable angle tow)
+ using analytical and numerical methods such as Isogeometric and finite
+ element methods.
+ Particularly, I deal with bending, vibration, transient, harmonic, and
+ buckling analysis in both dry and hydrothermal conditions.
+ During my Ph.D.
+ tenure, I extensively worked on the nonlinear bending and buckling analysis
+ of laminated and sandwich curved panels in hygrothermal environment under
+ the supervision of Prof.
+ B.
+ N.
+ Singh and Prof.
+ D.
+ K.
+ Maiti.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The area of research explored during my Ph.D is:
+\end_layout
+
+\begin_layout Enumerate
+Development and implementation of 3D Elasticity solution for multilayered
+ composite plates.
+\end_layout
+
+\begin_layout Enumerate
+Navier and Levy solutions using different equivalent models for bending,
+ buckling, free vibration, and transient analysis of plates/shells.
+\end_layout
+
+\begin_layout Enumerate
+NURBS-based isogeometric and finite element models using CLPT, FSDT, HSDT,
+ and quasi-3D theories.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Comparison between different types of geometric nonlinearities, i.e., von
+ Karman, Green-Lagrange, and others.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Worked on finite element model using flat, degenerated, and curved shell
+ elements.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Development of mathematical models using Continuum based approach.
+\end_layout
+
+\end_inset
+
+ I am currently working on analysis of thee rotating structures under Prof.
+ Donatus Oguamanam (
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://www.torontomu.ca/mechanical-industrial/people/faculty/donatus-oguamanam/"
+literal "false"
+
+\end_inset
+
+) at TMU Canada.
+ Moreover, I am also extending my Ph.D.
+ works with functionally graded materials.
+ Apart from this, I am also trying to do structural analysis through a deep
+ learning approach.
+ 
+\end_layout
+
+\begin_layout Standard
+My future research interest is to develop various open-source modules to
+ do different types of structural analysis in the field of applied mechanics.
+ The benefit of doing open-source work is to make a free pathway for academician
+s, researchers, and scientists so that the financial and human resources
+ of our country can be utilized effectively.
+ My GitHub repository contains my source codes related to my work (
+\begin_inset CommandInset href
+LatexCommand href
+name "GitHub"
+target "https://github.com/suri2501"
+literal "false"
+
+\end_inset
+
+).
+ I have extensively coded the finite element and Isogeometric programs in
+ MATLAB for all these works and compared them with Navier, 3D Elasticity,
+ and ANSYS solutions to validate the approach.
+ I am skilled in Mathematica, C, C++, and Python, with data structure and
+ algorithms knowledge.
+\end_layout
+
+\begin_layout Standard
+I have gained a considerable amount of experience in structural analysis
+ and still learning new techniques.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Moreover, I have strong knowledge of the Isogeometric approach.
+\end_layout
+
+\end_inset
+
+ My objective as a teacher will be to motivate my students to develop self-learn
+ing interests and critical thinking by having a strong understanding of
+ fundamentals.
+ I will also encourage and impart technical skills which will be helpful
+ for academic and industrial projects.
+ My future goal is to work in the direction of current industrial trends
+ through different open source projects, research projects, industrial projects,
+ and developing new products and services for the betterment of our Country.
+ My kin interest in the above-mentioned areas and prior experience with
+ various skills will greatly benefit me in realizing the work at hand.
+\end_layout
+
+\begin_layout Standard
+Thank you for considering my application.
+ My CV is enclosed, along with a list of my published works and references.
+ I look forward to the possibility of joining your institute and contribute
+ to make it as an eminent institution.
+ Thank you for giving your time.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

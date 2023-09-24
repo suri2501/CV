@@ -1,0 +1,481 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extarticle
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "times" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 14
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2.5cm
+\rightmargin 2cm
+\bottommargin 2.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Itemize
+A statement of your approaches and philosophy regarding teaching and learning.
+ 
+\end_layout
+
+\begin_layout Itemize
+Include specific examples to illustrate your approaches from your past teaching
+ experience, or propose specific ideas for how you would teach future courses.
+ 
+\end_layout
+
+\begin_layout Itemize
+Include a statement of the broad courses you are qualified to teach, as
+ well as any courses you would like to develop.
+ Usually 1-2 pages.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Itemize
+summarizes your approach
+\end_layout
+
+\begin_layout Itemize
+general beliefs and descriptions of specific examples of how you teach.
+\end_layout
+
+\begin_layout Itemize
+goals for students
+\end_layout
+
+\begin_layout Itemize
+How do I know if students are achieving those goals? 
+\end_layout
+
+\begin_layout Itemize
+What is my teaching experience? What courses do I teach? 
+\end_layout
+
+\begin_layout Itemize
+why the way that you teach is effective for your students and how you know
+ that it is effective.
+\end_layout
+
+\begin_layout Itemize
+what you value and who you will be as a colleague.
+\end_layout
+
+\begin_layout Itemize
+While references to your past and future plans can help to ground your philosoph
+y, you should also explain what you learned from the classes you have taught
+ or detail how you plan to teach courses in the future.
+\end_layout
+
+\begin_layout Itemize
+mission statement
+\end_layout
+
+\begin_layout Itemize
+If there are particular teachers who inspire you, mention this inspiration
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size larger
+Teaching Plan
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+I consider teaching as the best profession.
+ It provides ample opportunity for noble action like learning and teaching
+ for whole life.
+ I love to learn things and teach them to the student.
+ The profession is noble and requires lifelong learning.
+ It requires enthusiasm, dedication and overall great motivation to be a
+ great professor.
+ I have that zeal, and I am ready to undergo the hardship required to be
+ a good professor.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Further, I believe that learning is a self-driven process, and a teacher’s
+ role involves is more than just facilitating learning and imparting knowledge
+ to the students.
+ A teacher should provide motivation to the students to learn and help in
+ organizing their thought process to understand and develop skills necessary
+ to be successful in professional and personal life.
+ A teaches should also help students to develop creative and critical thinking
+ to build solutions to real-life engineering problems and become a successful
+ engineers.
+ Since, Engineering is a “problem-solving discipline” that requires an understan
+ding of the basic principles/axioms of nature and their role in formulating
+ the underlying mathematical models.
+ I believe that teacher should not compromise on mathematical rigor and
+ physical insight required to address the problem to be solved.
+ One can first start with the explanation of physics and then introduced
+ to the mathematical tool to complete the particular difficult topic to
+ the students.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Slide preparation, assignment preparation and illustration are three other
+ things that teacher should give its effort, creativity, and customization
+ to make the concept properly understood by the students.
+ If possible, available or self-rendered video clips about the topic or
+ physical phenomena can be shown to better recalling in the mind.
+ One more skill that can help any teacher to success his/her mission of
+ imparting knowledge is that skill of typeset, illustration, and publishing
+ the content on the website so that student can focus on the studying of
+ the topic instead of writing to make noted for themselves.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Some more points which I personally feel can be done (according to the rules
+ of the institute) by keeping the interest of the students is to open to
+ the review sessions, flexible schedule, website communication which provides
+ students way to ask their doubts.
+ All the above mentioned points can easily be executed as these above points
+ require patience and passion to our subject which I feel I have.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Feedback during class or outside the class in the form of queries or doubt
+ is very much essential for teachers.
+ So that, teacher can understand where to repeat or explain in different
+ way.
+ A simple MCQ type questions can be given to students for a weekly progress
+ of the students.
+ The idea of doing all these things is to make students think and develop
+ question and reasoning about the topic which ultimately build their confidence.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+To make the student grasp the subject and understand the conceptual nuances,
+ I would like to follow the following pedagogy techniques:
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Sharing the slides with students, so that they can get the idea about that
+ is going to be taught in the lecture.
+ Further, this will help student to just focus on the understanding of the
+ concept instead of note making.
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Giving the outline of the topics and how topics are interrelated.
+ Particularly, how present topic is interlink with previous topic or why
+ this we are studying present topic.
+ Is present topic an essential element for particular topic or anything
+ other? So that, a continuously is maintain as done in other subject like
+ History.
+ A historic perspective can also be given which help students to understanding
+ the subject in better way.
+ 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Teaching the theoretical topic using slides, presentation, and black/white
+ board.
+ 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Demonstration of concept through prototype model (if possible) 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Solving the numerical problems.
+ 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Solving same problem or different problem using suitable programming/scripting
+ language.
+ 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Finally, software training like ANSYS or ABAQUS.
+ 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Whenever possible, importance of topic for different platform (GATE exams
+ or job interview) will be highlighted.
+\end_layout
+
+\begin_layout Standard
+\noindent
+The Further, as a teaching assistant, I have tutored several under graduate
+ and Post-graduate student at the IIT Kharagpur.
+ The subject in which I have been the teaching assistant are as follows:
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Engineering Mechanics 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Finite Element Method 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Aerospace Structure
+\end_layout
+
+\begin_layout Standard
+Apart from teaching assistant, I have mentor several undergraduate, post-graduat
+e, and early PhD students during my stay in IIT kharagpur.
+ I have also conducted workshop or training sessions on MATLAB and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+LaTeX{}
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+So, from the skill set and experience gained from my Ph.D., I would be able
+ to teach the following courses: 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Computer Programming 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Data Structures & Algorithm
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Engineering Mechanics
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Aerospace Structures
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Strength of Material/Mechanics of Solids
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Theory of Elasticity
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Continuum Mechanics 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Theory of Plate & Shell 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Mechanics of (Advanced) Composite Materials
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Smart Materials and Structures 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Theory of Vibration
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Structural Dynamics 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Stability of Structures 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Matrix / Finite element analysis of structures
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Isogeometric Analysis 
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Engineering Drawing 
+\end_layout
+
+\end_body
+\end_document

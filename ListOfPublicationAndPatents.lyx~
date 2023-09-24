@@ -188,7 +188,7 @@ Education
 status open
 
 \begin_layout Plain Layout
-2016 – 2021
+12 July 2016 – 15 Nov 2021
 \end_layout
 
 \end_inset
@@ -229,6 +229,14 @@ status open
 
 \begin_layout Plain Layout
 
+\series bold
+Thesis
+\series default
+: 14 Dec 2021, 
+\series bold
+Viva-Voce
+\series default
+ 6 June 2022
 \end_layout
 
 \end_inset
@@ -255,7 +263,7 @@ CGPA:
 status open
 
 \begin_layout Plain Layout
-2010 – 2015
+July 2010 – Dec 2015
 \end_layout
 
 \end_inset
@@ -292,10 +300,10 @@ status collapsed
 
 
 \begin_inset Argument 5
-status collapsed
+status open
 
 \begin_layout Plain Layout
-
+Degree 30 July 2016
 \end_layout
 
 \end_inset
@@ -322,7 +330,7 @@ CGPA:
 status open
 
 \begin_layout Plain Layout
-2008
+19 May 2010
 \end_layout
 
 \end_inset
@@ -388,14 +396,14 @@ Percentage:
 status open
 
 \begin_layout Plain Layout
-2006
+29 May 2008
 \end_layout
 
 \end_inset
 
 
 \begin_inset Argument 2
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Secondary Examination
@@ -1520,7 +1528,7 @@ literal "false"
 \begin_inset space \qquad{}
 \end_inset
 
-Mechanics of Advanced Composite Structures, Se (
+Mechanics of Advanced Composite Structures, Semnan University (
 \shape italic
 \color orange
 
@@ -2984,7 +2992,7 @@ separation "3pt"
 shadowsize "4pt"
 framecolor "black"
 backgroundcolor "none"
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -3040,7 +3048,7 @@ Letter
 
 \begin_inset CommandInset href
 LatexCommand href
-target "doguaman@ryerson.ca"
+target "doguaman@torontomu.ca"
 type "mailto:"
 literal "false"
 
