@@ -249,7 +249,7 @@ Thesis
 \series default
 : 14 Dec 2021, 
 \series bold
-Viva-Voce
+Viva-Voce:
 \series default
  6 June 2022
 \end_layout
@@ -282,7 +282,7 @@ CGPA:
 status open
 
 \begin_layout Plain Layout
-July 2010 – 
+22 July 2010 – 
 \begin_inset ERT
 status open
 
@@ -297,7 +297,7 @@ status open
 
 \end_inset
 
-Dec 2015
+ 1 Feb 2016
 \end_layout
 
 \end_inset
@@ -337,7 +337,11 @@ status collapsed
 status open
 
 \begin_layout Plain Layout
-Degree 30 July 2016
+
+\series bold
+Degree
+\series default
+: 30 July 2016
 \end_layout
 
 \end_inset
@@ -501,7 +505,7 @@ Research Interest
 
 \begin_layout Item
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Materials
@@ -514,7 +518,7 @@ Laminated, Sandwich, and Functionally Graded Material (FGM), Piezoelectric
 
 \begin_layout Item
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Structures
@@ -522,7 +526,7 @@ Structures
 
 \end_inset
 
-Curved and folded structures
+Curved, folded, Stiffened
 \end_layout
 
 \begin_layout Item
@@ -560,8 +564,8 @@ Dynamics analysis
 \series bold
 Buckling analysis
 \series default
- – Linearized buckling, Post-buckling, Nonlinear buckling with/without imperfect
-ion; Analysis under hygrothermal enviornment
+ – Linear buckling, Post-buckling, Nonlinear buckling with/without imperfection;
+ Analysis under hygrothermal environment
 \end_layout
 
 \begin_layout Section
@@ -706,7 +710,7 @@ Toronto, Ontario, Canada
 
 \end_inset
 
-Finite element analysis of rotating structures under thermal environment.
+Structural analysis of rotating and hyperelastic structures.
  
 \end_layout
 
@@ -1173,7 +1177,7 @@ Nov, 2021
 
 
 \begin_inset Argument 2
-status collapsed
+status open
 
 \begin_layout Plain Layout
 PhD Thesis
@@ -1183,7 +1187,7 @@ PhD Thesis
 
 
 \begin_inset Argument 3
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Nonlinear Bending and Buckling Analysis of Laminated and Sandwich Curved
@@ -1194,7 +1198,7 @@ Nonlinear Bending and Buckling Analysis of Laminated and Sandwich Curved
 
 
 \begin_inset Argument 4
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1204,7 +1208,7 @@ status collapsed
 
 
 \begin_inset Argument 5
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1556,6 +1560,80 @@ Journal Articles
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+\align right
+Accepted
+\begin_inset space \hspace{}
+\length 1ex
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+Bending Analysis of Functionally Graded Plates Under Mechanical and Thermal
+ Environment Using Non-Polynomial Shear Deformation Theory - 
+\series bold
+International Journal of Advances in Engineering Sciences and Applied Mathematic
+s
+\series default
+ - Springer - AEAM-D-23-00080R1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintAll"
@@ -1709,12 +1787,12 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-Dec, 2022 - Oct, 2023
+Dec, 2022 - Oct, 2024
 \end_layout
 
 \end_inset
 
- Toronto Metropolitan University Postdoctoral fellowship 
+Toronto Metropolitan University Postdoctoral fellowship 
 \end_layout
 
 \begin_layout Item
