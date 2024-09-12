@@ -508,12 +508,12 @@ Research Interest
 status open
 
 \begin_layout Plain Layout
-Materials
+Structures
 \end_layout
 
 \end_inset
 
-Laminated, Sandwich, and Functionally Graded Material (FGM), Piezoelectric
+Rotating blade with preset and pretwist, Curved panel, Folded, Stiffened
 \end_layout
 
 \begin_layout Item
@@ -521,12 +521,13 @@ Laminated, Sandwich, and Functionally Graded Material (FGM), Piezoelectric
 status open
 
 \begin_layout Plain Layout
-Structures
+Materials
 \end_layout
 
 \end_inset
 
-Curved, folded, Stiffened
+Functionally Graded Material (FGM), Piezoelectric, Sandwich, and Laminated
+ 
 \end_layout
 
 \begin_layout Item
@@ -539,7 +540,8 @@ Methods
 
 \end_inset
 
-Analytical, Finite element analysis (FEA) and Isogeometric analysis (IGA)
+Isogeometric analysis (IGA), Finite element analysis (FEA), and Analytical
+ 
 \end_layout
 
 \begin_layout Item
@@ -582,7 +584,7 @@ Programming
 
 \end_inset
 
-C, C++, Python, MATLAB, Mathematica, R, CLISP
+Python, MATLAB, C, C++, Mathematica, R, CLISP
 \end_layout
 
 \begin_layout Item
@@ -621,7 +623,7 @@ Package
 
 \end_inset
 
-ANSYS
+ANSYS APDL
 \end_layout
 
 \begin_layout Item
@@ -665,14 +667,14 @@ status open
 
 \end_inset
 
-Present
+31, Oct 2024
 \end_layout
 
 \end_inset
 
 
 \begin_inset Argument 2
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Post-Doctoral Research Fellow
@@ -1580,6 +1582,201 @@ status open
 
 \begin_layout Plain Layout
 \align right
+\begin_inset space \hspace{}
+\length 1ex
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+Isogeometric free vibration analysis of rotating preset laminated and functional
+ly graded plates using cubic IGA-TSDT model nonlinear quasi-static approach
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align right
+\begin_inset space \hspace{}
+\length 1ex
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+Torsional response of thin-walled open cross-sections using MQRBF based
+ meshfree method
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align right
+\begin_inset space \hspace{}
+\length 1ex
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+Linear and nonlinear bending and buckling analysis of multilayered composite
+ curved panels due to mechanical load using HSDTs
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align right
 Accepted
 \begin_inset space \hspace{}
 \length 1ex
@@ -1610,15 +1807,17 @@ backgroundcolor "none"
 status open
 
 \begin_layout Plain Layout
-Bending Analysis of Functionally Graded Plates Under Mechanical and Thermal
- Environment Using Non-Polynomial Shear Deformation Theory - 
-\series bold
-International Journal of Advances in Engineering Sciences and Applied Mathematic
-s
-\series default
- - Springer - AEAM-D-23-00080R1
+NURBS-based isogeometric formulation for linear and nonlinear buckling analysis
+ of laminated composite plates using constrained and unconstrained TSDTs
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
 \end_inset
 
 
@@ -1654,6 +1853,73 @@ options "plainyrrev"
 
 \begin_layout Subsection
 In Conference Proceedings
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align right
+2024
+\begin_inset space \hspace{}
+\length 1ex
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+A unified buckling formulation for linear and nonlinear analysis of laminated
+ plates using penalty based C0 FEM-HSDT model
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2488,7 +2754,66 @@ status open
 \end_layout
 
 \begin_layout Section
-Short Term Courses/ Webinar Attended
+Short Term Courses/ Webinar Attended/ Delivered
+\end_layout
+
+\begin_layout Subsection
+PDEU University, Dept.
+ of Mechanical Engineering
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Aug, 25, 2024
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Five Day Skill Development Workshop on Computational Fluid Dynamics (Hybrid
+ Mode)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+I delivered a 2 hour talk on Finite Element Method for Heat Transfer.
 \end_layout
 
 \begin_layout Subsection
