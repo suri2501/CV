@@ -1578,6 +1578,72 @@ separation "3pt"
 shadowsize "4pt"
 framecolor "black"
 backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+\align right
+\begin_inset space \hspace{}
+\length 1ex
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+Linear and nonlinear bending and buckling analysis of multilayered composite
+ curved panels due to mechanical load using HSDTs
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
 status open
 
 \begin_layout Plain Layout
@@ -1625,6 +1691,9 @@ ly graded plates using cubic IGA-TSDT model nonlinear quasi-static approach
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
 \begin_inset Box Frameless
 position "t"
 hor_pos "c"
@@ -1641,10 +1710,11 @@ separation "3pt"
 shadowsize "4pt"
 framecolor "black"
 backgroundcolor "none"
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align right
+Accepted
 \begin_inset space \hspace{}
 \length 1ex
 \end_inset
@@ -1671,77 +1741,12 @@ separation "3pt"
 shadowsize "4pt"
 framecolor "black"
 backgroundcolor "none"
-status open
+status collapsed
 
 \begin_layout Plain Layout
-Torsional response of thin-walled open cross-sections using MQRBF based
- meshfree method
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "20col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-\align right
-\begin_inset space \hspace{}
-\length 1ex
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "80col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-Linear and nonlinear bending and buckling analysis of multilayered composite
- curved panels due to mechanical load using HSDTs
+Effect of porosity on stability analysis of bidirectional FGM skew plate
+ via Higher order shear deformation theory and RBF approach, International
+ Journal of Steel Structures
 \end_layout
 
 \end_inset
@@ -1840,7 +1845,8 @@ status open
 
 \begin_layout Plain Layout
 A unified buckling formulation for linear and nonlinear analysis of laminated
- plates using penalty based C0 FEM-HSDT model
+ plates using penalty based C0 FEM-HSDT model, CSME 2024 at University of
+ Toronto
 \end_layout
 
 \end_inset

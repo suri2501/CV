@@ -164,48 +164,6 @@
 \begin_body
 
 \begin_layout Section
-Patent
-\end_layout
-
-\begin_layout Item
-\begin_inset Argument 1
-status collapsed
-
-\begin_layout Plain Layout
-Filled
-\end_layout
-
-\end_inset
-
-
-\series bold
-A holder for stirrer
-\series default
-, Inventor: Rabindra Prasad; Co-Inventors: Harikishor Kumar, Parshant Kumar,
- Abha Gupta, and Surendra Verma.
- Application No.
- 202211036036
-\end_layout
-
-\begin_layout Item
-\begin_inset Argument 1
-status collapsed
-
-\begin_layout Plain Layout
-To be filled
-\end_layout
-
-\end_inset
-
-
-\series bold
-Fabrication of Low-Cost Localized Metallic Foam via Friction Stir Processing
-\series default
-, Inventor: Rabindra Prasad; Co-Inventors: Harikishor Kumar, Parshant Kumar,
- Abha Gupta, Surendra Verma, and Nitesh Kumar Sinha.
-\end_layout
-
-\begin_layout Section
 Publications
 \end_layout
 
@@ -241,24 +199,28 @@ options "plainyrrev"
 
 \end_layout
 
-\begin_layout Subsection
-In Conference Proceedings
+\begin_layout Section
+Patent
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-btprint "btPrintAll"
-bibfiles "conference"
-options "plainyrrev"
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Filled
+\end_layout
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Section
-
+\series bold
+A holder for stirrer
+\series default
+, Inventor: Rabindra Prasad; Co-Inventors: Harikishor Kumar, Parshant Kumar,
+ Abha Gupta, and Surendra Verma.
+ Application No.
+ 202211036036
 \end_layout
 
 \end_body
