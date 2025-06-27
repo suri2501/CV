@@ -1,5 +1,5 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -22,10 +22,12 @@
 %\usepackage{booktabs}
 \usepackage{fontawesome}
 \usepackage{marvosym}% For cool symbols.
+\usepackage{lmodern}
 %\usepackage{hyperref}
 
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
+%\usepackage[T1]{fontenc}
+
+%\usepackage{inputenc}
 
 
 %	NAME AND CONTACT INFORMATION SECTION
@@ -78,11 +80,11 @@
 \end_preamble
 \options sans, defaultbib
 \use_default_options false
-\maintain_unincluded_children false
+\maintain_unincluded_children no
 \language english
 \language_package default
-\inputencoding auto
-\fontencoding global
+\inputencoding utf8
+\fontencoding auto
 \font_roman "default" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
@@ -90,7 +92,9 @@
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
-\font_osf false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
 \use_microtype false
@@ -100,6 +104,8 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
+\float_placement class
+\float_alignment class
 \paperfontsize 12
 \spacing single
 \use_hyperref true
@@ -112,7 +118,7 @@
 \pdf_colorlinks true
 \pdf_backref false
 \pdf_pdfusetitle true
-\papersize a4paper
+\papersize a4
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
@@ -134,7 +140,9 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_formatted_ref 0
 \use_minted 0
+\use_lineno 0
 \index Index
 \shortcut idx
 \color #008000
@@ -154,38 +162,19 @@
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
+\tablestyle default
 \tracking_changes false
 \output_changes false
+\change_bars false
+\postpone_fragile_content false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
 \end_header
 
 \begin_body
-
-\begin_layout Section
-Patent
-\end_layout
-
-\begin_layout Item
-\begin_inset Argument 1
-status collapsed
-
-\begin_layout Plain Layout
-Filled
-\end_layout
-
-\end_inset
-
-
-\series bold
-A holder for stirrer
-\series default
-, Inventor: Rabindra Prasad; Co-Inventors: Harikishor Kumar, Parshant Kumar,
- Abha Gupta, and Surendra Verma.
- Application No.
- 202211036036
-\end_layout
 
 \begin_layout Section
 Publications
@@ -224,7 +213,30 @@ options "plainyrrev"
 \end_layout
 
 \begin_layout Section
+Patent
+\begin_inset Argument 1
+status collapsed
 
+\begin_layout Plain Layout
+Filled
+\end_layout
+
+\end_inset
+
+
+\series bold
+A holder for stirrer
+\series default
+,
+ Inventor:
+ Rabindra Prasad;
+ Co-Inventors:
+ Harikishor Kumar,
+ Parshant Kumar,
+ Abha Gupta,
+ and Surendra Verma.
+ Application No.
+ 202211036036
 \end_layout
 
 \end_body

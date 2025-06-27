@@ -163,82 +163,35 @@
 
 \begin_body
 
+\begin_layout Section
+Publications
+\end_layout
+
 \begin_layout Subsection
-In Conference Proceedings
-\end_layout
-
-\begin_layout Standard
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "20col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-\align right
-2024
-\begin_inset space \hspace{}
-\length 1ex
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "80col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-A unified buckling formulation for linear and nonlinear analysis of laminated
- plates using penalty based C0 FEM-HSDT model at CSME 2024
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
+Journal Articles
 \end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintAll"
-bibfiles "conference"
+bibfiles "journal"
+options "plainyrrev"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Book Chapters
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "chapter"
 options "plainyrrev"
 
 \end_inset
@@ -247,7 +200,27 @@ options "plainyrrev"
 \end_layout
 
 \begin_layout Section
+Patent
+\end_layout
 
+\begin_layout Item
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Filled
+\end_layout
+
+\end_inset
+
+
+\series bold
+A holder for stirrer
+\series default
+, Inventor: Rabindra Prasad; Co-Inventors: Harikishor Kumar, Parshant Kumar,
+ Abha Gupta, and Surendra Verma.
+ Application No.
+ 202211036036
 \end_layout
 
 \end_body

@@ -1,5 +1,5 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -17,14 +17,15 @@
 %\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
-%\usepackage[utf8]{inputenc}
+
 
 %\usepackage{booktabs}
 \usepackage{fontawesome}
 \usepackage{marvosym}% For cool symbols.
 %\usepackage{hyperref}
 
-\usepackage[T1]{fontenc}
+%\usepackage[T1]{fontenc}
+%\usepackage{inputenc}
 \usepackage{lmodern}
 
 
@@ -34,11 +35,11 @@
 
 % All information in this block is optional, comment out any lines you don't need
 \title{Curriculum Vitae}
-\address{Department of Mechanical and Industrial Engineering}{Toronto Metropolitan University}
-\mobile{(+91) 8436929997, (+1) 6476579151}
+\address{Department of Mechanical and Aerospace Engineering}{National Institute of Technology Delhi}
+\mobile{(+91) 8436929997}
 %\fax{(000) 111 1113}
 %\social{github}{stefano-bragaglia}
-\email{surendraverma2501@gmail.com} 
+\email{surendraverma2501@gmail.com, suri@nitdelhi.ac.in} 
 \homepage{https://suri2501.github.io/}{Website}
 % social link \faGithub, \faSkype, \faLinkedin,\faStackExchange, and \faStackOverflow
 \extrainfo{
@@ -76,13 +77,13 @@
 %     \ifthenelse{\equal{#6}{}}{}{\emailsymbol~\texttt{#6}\newline}%
 %     \ifthenelse{\equal{#7}{}}{}{\phonesymbol~#7}}
 \end_preamble
-\options sans, defaultbib
+\options sans,defaultbib
 \use_default_options false
-\maintain_unincluded_children false
+\maintain_unincluded_children no
 \language english
 \language_package default
-\inputencoding auto
-\fontencoding global
+\inputencoding utf8
+\fontencoding auto
 \font_roman "default" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
@@ -90,7 +91,9 @@
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
-\font_osf false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
 \use_microtype false
@@ -100,6 +103,8 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
+\float_placement class
+\float_alignment class
 \paperfontsize 12
 \spacing single
 \use_hyperref true
@@ -112,7 +117,7 @@
 \pdf_colorlinks true
 \pdf_backref false
 \pdf_pdfusetitle true
-\papersize a4paper
+\papersize a4
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
@@ -134,7 +139,9 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_formatted_ref 0
 \use_minted 0
+\use_lineno 0
 \index Index
 \shortcut idx
 \color #008000
@@ -154,11 +161,16 @@
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
+\tablestyle default
 \tracking_changes false
 \output_changes false
+\change_bars false
+\postpone_fragile_content false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
 \end_header
 
 \begin_body
@@ -247,9 +259,12 @@ status open
 \series bold
 Thesis
 \series default
-: 14 Dec 2021, 
+:
+ 14 Dec 2021,
+ 
 \series bold
 Viva-Voce:
+
 \series default
  6 June 2022
 \end_layout
@@ -260,7 +275,9 @@ Department of Aerospace Engineering
 \begin_inset Newline newline
 \end_inset
 
-Indian Institute of Technology Kharagpur, Kharagpur, West Bengal -721302,
+Indian Institute of Technology Kharagpur,
+ Kharagpur,
+ West Bengal -721302,
  India
 \end_layout
 
@@ -341,7 +358,8 @@ status open
 \series bold
 Degree
 \series default
-: 30 July 2016
+:
+ 30 July 2016
 \end_layout
 
 \end_inset
@@ -350,7 +368,9 @@ Department of Aerospace Engineering
 \begin_inset Newline newline
 \end_inset
 
-Indian Institute of Technology Kharagpur, Kharagpur, West Bengal -721302,
+Indian Institute of Technology Kharagpur,
+ Kharagpur,
+ West Bengal -721302,
  India
 \end_layout
 
@@ -417,7 +437,11 @@ Gwalior
 
 \end_inset
 
-Mathematics, Physics, Chemistry, English, Physical Education
+Mathematics,
+ Physics,
+ Chemistry,
+ English,
+ Physical Education
 \end_layout
 
 \begin_layout Item
@@ -483,7 +507,11 @@ Gwalior
 
 \end_inset
 
- Mathematics, Science, Social Science, English, Sanskrit
+ Mathematics,
+ Science,
+ Social Science,
+ English,
+ Sanskrit
 \end_layout
 
 \begin_layout Item
@@ -513,7 +541,10 @@ Structures
 
 \end_inset
 
-Rotating blade with preset and pretwist, Curved panel, Folded, Stiffened
+Rotating blade with preset and pretwist,
+ Curved panel,
+ Folded,
+ Stiffened
 \end_layout
 
 \begin_layout Item
@@ -526,8 +557,10 @@ Materials
 
 \end_inset
 
-Functionally Graded Material (FGM), Piezoelectric, Sandwich, and Laminated
- 
+Functionally Graded Material (FGM),
+ Piezoelectric,
+ Sandwich,
+ and Laminated 
 \end_layout
 
 \begin_layout Item
@@ -540,8 +573,9 @@ Methods
 
 \end_inset
 
-Isogeometric analysis (IGA), Finite element analysis (FEA), and Analytical
- 
+Isogeometric analysis (IGA),
+ Finite element analysis (FEA),
+ and Analytical 
 \end_layout
 
 \begin_layout Item
@@ -558,15 +592,21 @@ Analysis
 \series bold
 Bending analysis
 \series default
- – Stress calculation; 
+ – Stress calculation;
+ 
 \series bold
 Dynamics analysis
 \series default
- – Free Vibration, Transient, Steady-State; 
+ – Free Vibration,
+ Transient,
+ Steady-State;
+ 
 \series bold
 Buckling analysis
 \series default
- – Linear buckling, Post-buckling, Nonlinear buckling with/without imperfection;
+ – Linear buckling,
+ Post-buckling,
+ Nonlinear buckling with/without imperfection;
  Analysis under hygrothermal environment
 \end_layout
 
@@ -584,7 +624,13 @@ Programming
 
 \end_inset
 
-Python, MATLAB, C, C++, Mathematica, R, CLISP
+Python,
+ MATLAB,
+ C,
+ C++,
+ Mathematica,
+ R,
+ CLISP
 \end_layout
 
 \begin_layout Item
@@ -597,7 +643,13 @@ Scripting
 
 \end_inset
 
-Latex, HTML,CSS, JavaScript, PHP, MySQL, React, ReactNative
+Latex,
+ HTML,CSS,
+ JavaScript,
+ PHP,
+ MySQL,
+ React,
+ ReactNative
 \end_layout
 
 \begin_layout Item
@@ -610,7 +662,12 @@ Tools
 
 \end_inset
 
-LyX, Inkscape, Git, GitHuB, Photoshop, Blender
+LyX,
+ Inkscape,
+ Git,
+ GitHuB,
+ Photoshop,
+ Blender
 \end_layout
 
 \begin_layout Item
@@ -636,7 +693,9 @@ Platform
 
 \end_inset
 
-Windows, Linux (Ubuntu, Fedora)
+Windows,
+ Linux (Ubuntu,
+ Fedora)
 \end_layout
 
 \begin_layout Section
@@ -644,7 +703,7 @@ Professional Experience
 \end_layout
 
 \begin_layout Subsection
-Toronto Metropolitan University
+National Institute of Technology Delhi
 \end_layout
 
 \begin_layout Entry
@@ -652,7 +711,8 @@ Toronto Metropolitan University
 status open
 
 \begin_layout Plain Layout
-1, Dec, 2022 – 
+10,
+ Feb 2025 – 
 \begin_inset ERT
 status open
 
@@ -667,7 +727,183 @@ status open
 
 \end_inset
 
-31, Oct 2024
+ 31,
+ May 2025
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Assistant Professor on Contract
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Department of Mechanical and Aerospace Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+National Institute of Technology Delhi
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+New Delhi,
+ India
+\end_layout
+
+\end_inset
+
+My responsibility includes performing administrative responsibility,
+ research work,
+ and teaching to under graduate students in the mechanical and aerospace engineering.
+ 
+\end_layout
+
+\begin_layout Item
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Courses:
+\end_layout
+
+\end_inset
+
+Mechanics (Lecture),
+ Mechatronics (Lecture and Practical),
+ Engineering Workshop (Lecture and Practical),
+ Engineering Drawing (Practical).
+ 
+\end_layout
+
+\begin_layout Subsection
+National Institute of Technology Delhi
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+27,
+ Jan,
+ 2025 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 10,
+ Feb 2025
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Guest Faculty
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Department of Mechanical and Aerospace Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+National Institute of Technology Delhi
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+New Delhi,
+ India
+\end_layout
+
+\end_inset
+
+My responsibility was Mechanics (Lecture),
+ Mechatronics (Lecture and Practical),
+ Engineering Workshop (Lecture and Practical),
+ Engineering Drawing (Practical) to under graduate students of mechanical and aerospace engineering.
+\end_layout
+
+\begin_layout Subsection
+Toronto Metropolitan University
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+1,
+ Dec,
+ 2022 – 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+31,
+ Oct 2024
 \end_layout
 
 \end_inset
@@ -707,7 +943,9 @@ Toronto Metropolitan University
 status collapsed
 
 \begin_layout Plain Layout
-Toronto, Ontario, Canada
+Toronto,
+ Ontario,
+ Canada
 \end_layout
 
 \end_inset
@@ -754,7 +992,9 @@ Punjab Engineering College
 status open
 
 \begin_layout Plain Layout
-27, July, 2022 – 
+27,
+ July,
+ 2022 – 
 \begin_inset ERT
 status open
 
@@ -769,7 +1009,9 @@ status open
 
 \end_inset
 
-30, Nov, 2022
+30,
+ Nov,
+ 2022
 \end_layout
 
 \end_inset
@@ -809,14 +1051,15 @@ Punjab Engineering College
 status collapsed
 
 \begin_layout Plain Layout
-Chandigarh, India
+Chandigarh,
+ India
 \end_layout
 
 \end_inset
 
-My responsiblity includes performing administrative responsibility, research
- work, and teaching to both under gradate and post-graduate student in the
- aerospace engineering department.
+My responsibility includes performing administrative responsibility,
+ research work,
+ and teaching to both under graduate and post-graduate students in the aerospace engineering department.
 \end_layout
 
 \begin_layout Subsection
@@ -828,7 +1071,8 @@ Indian Institute of Technology Kharagpur
 status open
 
 \begin_layout Plain Layout
-July, 2016 – 
+July,
+ 2016 – 
 \begin_inset ERT
 status open
 
@@ -843,7 +1087,8 @@ status open
 
 \end_inset
 
-Nov, 2021
+Nov,
+ 2021
 \end_layout
 
 \end_inset
@@ -883,14 +1128,19 @@ Indian Institute of Technology Kharagpur
 status collapsed
 
 \begin_layout Plain Layout
-Kharagpur, West Bengal, India
+Kharagpur,
+ West Bengal,
+ India
 \end_layout
 
 \end_inset
 
-Teaching assistant in various undergraduate courses: Finite Element Methods,
- Aerospace Structure, Mechanics, Aerospace Structure, and Structure laboratory
- 
+Teaching assistant in various undergraduate courses:
+ Finite Element Methods,
+ Aerospace Structure,
+ Mechanics,
+ Aerospace Structure,
+ and Structure laboratory 
 \end_layout
 
 \begin_layout Item
@@ -908,15 +1158,20 @@ Instructor:
 Prof.
  B.
  N.
- Singh, Prof.
+ Singh,
+ Prof.
  D.
  K.
- Maiti, Dr.
+ Maiti,
+ Dr.
  M.
  K.
- Laha, Dr.
- Mira Mitra, Dr.
- Anup Ghosh, and Dr.
+ Laha,
+ Dr.
+ Mira Mitra,
+ Dr.
+ Anup Ghosh,
+ and Dr.
  Akshay Prakash
 \series default
  (
@@ -942,7 +1197,8 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-July, 2014 – 
+July,
+ 2014 – 
 \begin_inset ERT
 status open
 
@@ -957,7 +1213,8 @@ status open
 
 \end_inset
 
-May, 2015
+May,
+ 2015
 \end_layout
 
 \end_inset
@@ -997,13 +1254,15 @@ Indian Institute of Technology Kharagpur
 status collapsed
 
 \begin_layout Plain Layout
-Kharagpur, West Bengal, India
+Kharagpur,
+ West Bengal,
+ India
 \end_layout
 
 \end_inset
 
-Teaching assistant in two undergraduate courses: Mechanics and Engineering
- Drawing
+Teaching assistant in two undergraduate courses:
+ Mechanics and Engineering Drawing
 \end_layout
 
 \begin_layout Item
@@ -1021,7 +1280,8 @@ Instructor:
 Dr.
  M.
  K.
- Laha, and Dr.
+ Laha,
+ and Dr.
  Anup Ghosh
 \series default
  (
@@ -1055,7 +1315,9 @@ Indian Institute of Technology Kharagpur
 status open
 
 \begin_layout Plain Layout
-15, Dec, 2022 – 
+15,
+ Dec,
+ 2022 – 
 \begin_inset ERT
 status open
 
@@ -1070,7 +1332,9 @@ status open
 
 \end_inset
 
-25, July, 2022
+25,
+ July,
+ 2022
 \end_layout
 
 \end_inset
@@ -1115,8 +1379,7 @@ status collapsed
 
 \end_inset
 
- Develop regression model to predict bending and buckling analysis of multilayer
-ed composite structures using Deep-Learning.
+ Develop regression model to predict bending and buckling analysis of multilayered composite structures using Deep-Learning.
 \end_layout
 
 \begin_layout Item
@@ -1157,7 +1420,8 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-July, 2016 – 
+July,
+ 2016 – 
 \begin_inset ERT
 status open
 
@@ -1172,7 +1436,8 @@ status open
 
 \end_inset
 
-Nov, 2021
+Nov,
+ 2021
 \end_layout
 
 \end_inset
@@ -1192,8 +1457,7 @@ PhD Thesis
 status open
 
 \begin_layout Plain Layout
-Nonlinear Bending and Buckling Analysis of Laminated and Sandwich Curved
- Panels in Hygrothermal Environment
+Nonlinear Bending and Buckling Analysis of Laminated and Sandwich Curved Panels in Hygrothermal Environment
 \end_layout
 
 \end_inset
@@ -1218,35 +1482,29 @@ status open
 
 \end_inset
 
-Geometrically nonlinear finite element model is developed for the bending
- and buckling analysis of multilayered composite curved panel under hygrothermal
- envioronment.
+Geometrically nonlinear finite element model is developed for the bending and buckling analysis of multilayered composite curved panel under hygrothermal envioronment.
  
 \begin_inset Newline newline
 \end_inset
 
-A generalized C0 finite element model is formulated and coded into MATLAB
- for nonpolynomial shear deformation theory (NPSDT) incorporating both von
- Karman and Green-Lagrange nonlinearity.
+A generalized C0 finite element model is formulated and coded into MATLAB for nonpolynomial shear deformation theory (NPSDT) incorporating both von Karman and Green-Lagrange nonlinearity.
  
 \begin_inset Newline newline
 \end_inset
 
-Predicted the bending response of curved composite panel using inverse hyperboli
-c shear deformation theory (IHSDT) and third-order shear deformation theory(TSDT
-).
+Predicted the bending response of curved composite panel using inverse hyperbolic shear deformation theory (IHSDT) and third-order shear deformation theory(TSDT).
  
 \begin_inset Newline newline
 \end_inset
 
-Linear buckling, post-buckling, and nonlinear buckling response subjected
- to mechanical in-plane load and thermal load is analyzed extensively.
+Linear buckling,
+ post-buckling,
+ and nonlinear buckling response subjected to mechanical in-plane load and thermal load is analyzed extensively.
  
 \begin_inset Newline newline
 \end_inset
 
-Navier type analytical and 3D elasticity results are also obtained for composite
- plates and panels to validate the accuracy of present FEM results.
+Navier type analytical and 3D elasticity results are also obtained for composite plates and panels to validate the accuracy of present FEM results.
 \end_layout
 
 \begin_layout Item
@@ -1311,7 +1569,8 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-July, 2014 – 
+July,
+ 2014 – 
 \begin_inset ERT
 status open
 
@@ -1326,7 +1585,8 @@ status open
 
 \end_inset
 
-May, 2015
+May,
+ 2015
 \end_layout
 
 \end_inset
@@ -1371,14 +1631,12 @@ status collapsed
 
 \end_inset
 
-Developed MATLAB program for flat shell element using superimposition of
- in-plane and bending effect.
+Developed MATLAB program for flat shell element using superimposition of in-plane and bending effect.
  
 \begin_inset Newline newline
 \end_inset
 
-Analyzed Standard Benchmarked problems using developed four noded quadrilateral
- flat shell element.
+Analyzed Standard Benchmarked problems using developed four noded quadrilateral flat shell element.
 \end_layout
 
 \begin_layout Item
@@ -1396,7 +1654,8 @@ Advisor :
 Dr.
  Anup Ghosh
 \series default
-, 
+,
+ 
 \shape italic
 Associate Professor (
 \color orange
@@ -1419,7 +1678,8 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-July, 2013 – 
+July,
+ 2013 – 
 \begin_inset ERT
 status open
 
@@ -1434,7 +1694,8 @@ status open
 
 \end_inset
 
-May, 2014
+May,
+ 2014
 \end_layout
 
 \end_inset
@@ -1479,14 +1740,12 @@ status collapsed
 
 \end_inset
 
-Developed MATLAB program to find natural frequency and mode shapes of beams
- and plates.
+Developed MATLAB program to find natural frequency and mode shapes of beams and plates.
  
 \begin_inset Newline newline
 \end_inset
 
-Developed MATLAB program to find critical buckling load for beam and plates
- under different boundary conditions.
+Developed MATLAB program to find critical buckling load for beam and plates under different boundary conditions.
 \end_layout
 
 \begin_layout Item
@@ -1529,8 +1788,14 @@ Filled
 \series bold
 A holder for stirrer
 \series default
-, Inventor: Rabindra Prasad; Co-Inventors: Harikishor Kumar, Parshant Kumar,
- Abha Gupta, and Surendra Verma.
+,
+ Inventor:
+ Rabindra Prasad;
+ Co-Inventors:
+ Harikishor Kumar,
+ Parshant Kumar,
+ Abha Gupta,
+ and Surendra Verma.
  Application No.
  202211036036
 \end_layout
@@ -1549,8 +1814,15 @@ To be filled
 \series bold
 Fabrication of Low-Cost Localized Metallic Foam via Friction Stir Processing
 \series default
-, Inventor: Rabindra Prasad; Co-Inventors: Harikishor Kumar, Parshant Kumar,
- Abha Gupta, Surendra Verma, and Nitesh Kumar Sinha.
+,
+ Inventor:
+ Rabindra Prasad;
+ Co-Inventors:
+ Harikishor Kumar,
+ Parshant Kumar,
+ Abha Gupta,
+ Surendra Verma,
+ and Nitesh Kumar Sinha.
 \end_layout
 
 \begin_layout Section
@@ -1562,6 +1834,10 @@ Journal Articles
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset Box Frameless
 position "t"
 hor_pos "c"
@@ -1578,7 +1854,7 @@ separation "3pt"
 shadowsize "4pt"
 framecolor "black"
 backgroundcolor "none"
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align right
@@ -1608,11 +1884,10 @@ separation "3pt"
 shadowsize "4pt"
 framecolor "black"
 backgroundcolor "none"
-status open
+status collapsed
 
 \begin_layout Plain Layout
-Isogeometric free vibration analysis of rotating preset laminated and functional
-ly graded plates using cubic IGA-TSDT model nonlinear quasi-static approach
+Linear and nonlinear bending and buckling analysis of multilayered composite curved panels due to mechanical load using HSDTs
 \end_layout
 
 \end_inset
@@ -1620,11 +1895,14 @@ ly graded plates using cubic IGA-TSDT model nonlinear quasi-static approach
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace smallskip
 \end_inset
 
 
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset Box Frameless
 position "t"
 hor_pos "c"
@@ -1641,7 +1919,7 @@ separation "3pt"
 shadowsize "4pt"
 framecolor "black"
 backgroundcolor "none"
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align right
@@ -1671,11 +1949,15 @@ separation "3pt"
 shadowsize "4pt"
 framecolor "black"
 backgroundcolor "none"
-status open
+status collapsed
 
 \begin_layout Plain Layout
-Torsional response of thin-walled open cross-sections using MQRBF based
- meshfree method
+Isogeometric free vibration analysis of rotating preset laminated and functionally graded plates using cubic IGA-TSDT model nonlinear quasi-static approach
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1684,84 +1966,28 @@ Torsional response of thin-walled open cross-sections using MQRBF based
 \end_layout
 
 \begin_layout Standard
+\align center
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset VSpace smallskip
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "20col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
 \begin_layout Plain Layout
-\align right
-\begin_inset space \hspace{}
-\length 1ex
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "80col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-Linear and nonlinear bending and buckling analysis of multilayered composite
- curved panels due to mechanical load using HSDTs
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace smallskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintAll"
 bibfiles "journal"
 options "plainyrrev"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -1839,9 +2065,8 @@ backgroundcolor "none"
 status open
 
 \begin_layout Plain Layout
-A unified buckling formulation for linear and nonlinear analysis of laminated
- plates using penalty based C0 FEM-HSDT model, CSME 2024 at University of
- Toronto
+A unified buckling formulation for linear and nonlinear analysis of laminated plates using penalty based C0 FEM-HSDT model,
+ CSME 2024 at University of Toronto
 \end_layout
 
 \end_inset
@@ -1882,14 +2107,16 @@ status open
 
 \end_inset
 
-Reviewer of peer reviewed SCI journal: 
+Reviewer of peer reviewed SCI journal:
+ 
 \end_layout
 
 \begin_layout Item
 \begin_inset space \qquad{}
 \end_inset
 
-Thin-Walled Structures, Elsevier (
+Thin-Walled Structures,
+ Elsevier (
 \shape italic
 \color orange
 
@@ -1911,7 +2138,8 @@ literal "false"
 \begin_inset space \qquad{}
 \end_inset
 
-Journal of Aerospace Engineering, ASCE (
+Journal of Aerospace Engineering,
+ ASCE (
 \shape italic
 \color orange
 
@@ -1933,7 +2161,8 @@ literal "false"
 \begin_inset space \qquad{}
 \end_inset
 
-Mechanics of Composite Materials, Springer (
+Mechanics of Composite Materials,
+ Springer (
 \shape italic
 \color orange
 
@@ -1955,7 +2184,8 @@ literal "false"
 \begin_inset space \qquad{}
 \end_inset
 
-Mechanics of Advanced Composite Structures, Semnan University (
+Mechanics of Advanced Composite Structures,
+ Semnan University (
 \shape italic
 \color orange
 
@@ -1978,7 +2208,9 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-Dec, 2022 - Oct, 2024
+Dec,
+ 2022 - Oct,
+ 2024
 \end_layout
 
 \end_inset
@@ -2021,7 +2253,8 @@ Position of Responsibility
 status open
 
 \begin_layout Plain Layout
-Aug, 2022 – 
+Aug,
+ 2022 – 
 \begin_inset ERT
 status open
 
@@ -2036,7 +2269,9 @@ status open
 
 \end_inset
 
-30, Nov, 2022
+30,
+ Nov,
+ 2022
 \end_layout
 
 \end_inset
@@ -2046,9 +2281,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-Technical Committee Member of 35th National Convention of Aerospace Engineers
- and National Conference on Smart Materials and their applications in Aerospace
- Industries
+Technical Committee Member of 35th National Convention of Aerospace Engineers and National Conference on Smart Materials and their applications in Aerospace Industries
 \end_layout
 
 \end_inset
@@ -2058,7 +2291,8 @@ Technical Committee Member of 35th National Convention of Aerospace Engineers
 status open
 
 \begin_layout Plain Layout
-Punjab Engineering College, Chandigarh
+Punjab Engineering College,
+ Chandigarh
 \end_layout
 
 \end_inset
@@ -2104,7 +2338,8 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-Aug, 2022 – 
+Aug,
+ 2022 – 
 \begin_inset ERT
 status open
 
@@ -2119,7 +2354,9 @@ status open
 
 \end_inset
 
-30, Nov, 2022
+30,
+ Nov,
+ 2022
 \end_layout
 
 \end_inset
@@ -2129,8 +2366,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-Website Head of 35th National Convention of Aerospace Engineers and National
- Conference on Smart Materials and their applications in Aerospace Industries
+Website Head of 35th National Convention of Aerospace Engineers and National Conference on Smart Materials and their applications in Aerospace Industries
 \end_layout
 
 \end_inset
@@ -2140,7 +2376,8 @@ Website Head of 35th National Convention of Aerospace Engineers and National
 status open
 
 \begin_layout Plain Layout
-Punjab Engineering College, Chandigarh
+Punjab Engineering College,
+ Chandigarh
 \end_layout
 
 \end_inset
@@ -2186,7 +2423,8 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-April, 2013 – 
+April,
+ 2013 – 
 \begin_inset ERT
 status open
 
@@ -2201,7 +2439,8 @@ status open
 
 \end_inset
 
-July, 2015
+July,
+ 2015
 \end_layout
 
 \end_inset
@@ -2221,7 +2460,8 @@ Website Coordinator of Department of Aerospace Engineering for 3 years
 status open
 
 \begin_layout Plain Layout
-Department of Aerospace Engineering, IIT Kharagpur
+Department of Aerospace Engineering,
+ IIT Kharagpur
 \end_layout
 
 \end_inset
@@ -2254,7 +2494,8 @@ status collapsed
 status open
 
 \begin_layout Plain Layout
-Jan, 2013 – 
+Jan,
+ 2013 – 
 \begin_inset ERT
 status open
 
@@ -2269,7 +2510,8 @@ status open
 
 \end_inset
 
-May, 2015
+May,
+ 2015
 \end_layout
 
 \end_inset
@@ -2289,7 +2531,8 @@ Website Head of RK Hall of Residence for 2 year
 status open
 
 \begin_layout Plain Layout
-RadhaKrishnan Hall of Residence, IIT Kharagpur
+RadhaKrishnan Hall of Residence,
+ IIT Kharagpur
 \end_layout
 
 \end_inset
@@ -2322,7 +2565,8 @@ status collapsed
 status open
 
 \begin_layout Plain Layout
-July, 2012 – 
+July,
+ 2012 – 
 \begin_inset ERT
 status open
 
@@ -2337,7 +2581,8 @@ status open
 
 \end_inset
 
-May, 2013
+May,
+ 2013
 \end_layout
 
 \end_inset
@@ -2347,8 +2592,7 @@ May, 2013
 status open
 
 \begin_layout Plain Layout
-Mess Auditor and Vice-Captain of Illumination of RK Hall of residence for
- 1 year
+Mess Auditor and Vice-Captain of Illumination of RK Hall of residence for 1 year
 \end_layout
 
 \end_inset
@@ -2358,7 +2602,8 @@ Mess Auditor and Vice-Captain of Illumination of RK Hall of residence for
 status open
 
 \begin_layout Plain Layout
-RadhaKrishnan Hall of Residence, IIT Kharagpur
+RadhaKrishnan Hall of Residence,
+ IIT Kharagpur
 \end_layout
 
 \end_inset
@@ -2391,7 +2636,9 @@ status collapsed
 status open
 
 \begin_layout Plain Layout
-27, Jan, 2012 – 
+27,
+ Jan,
+ 2012 – 
 \begin_inset ERT
 status open
 
@@ -2406,7 +2653,9 @@ status open
 
 \end_inset
 
-30, Jan, 2012
+30,
+ Jan,
+ 2012
 \end_layout
 
 \end_inset
@@ -2426,7 +2675,8 @@ Sub Head of Annual Techno Management Fest of IIT Kharagpur in 2nd year
 status open
 
 \begin_layout Plain Layout
-RadhaKrishnan Hall of Residence, IIT Kharagpur
+RadhaKrishnan Hall of Residence,
+ IIT Kharagpur
 \end_layout
 
 \end_inset
@@ -2692,7 +2942,8 @@ Short Term Courses/ Webinar Attended/ Delivered
 \end_layout
 
 \begin_layout Subsection
-PDEU University, Dept.
+PDEU University,
+ Dept.
  of Mechanical Engineering
 \end_layout
 
@@ -2701,7 +2952,9 @@ PDEU University, Dept.
 status open
 
 \begin_layout Plain Layout
-Aug, 25, 2024
+Aug,
+ 25,
+ 2024
 \end_layout
 
 \end_inset
@@ -2711,8 +2964,7 @@ Aug, 25, 2024
 status open
 
 \begin_layout Plain Layout
-Five Day Skill Development Workshop on Computational Fluid Dynamics (Hybrid
- Mode)
+Five Day Skill Development Workshop on Computational Fluid Dynamics (Hybrid Mode)
 \end_layout
 
 \end_inset
@@ -2751,7 +3003,8 @@ I delivered a 2 hour talk on Finite Element Method for Heat Transfer.
 \end_layout
 
 \begin_layout Subsection
-IIT Hyderabad, Dept.
+IIT Hyderabad,
+ Dept.
  of Civil Engineering
 \end_layout
 
@@ -2760,7 +3013,9 @@ IIT Hyderabad, Dept.
 status open
 
 \begin_layout Plain Layout
-Feb, 19 – 21, 2020
+Feb,
+ 19 – 21,
+ 2020
 \end_layout
 
 \end_inset
@@ -2770,8 +3025,7 @@ Feb, 19 – 21, 2020
 status collapsed
 
 \begin_layout Plain Layout
-Short course on Nonlocal Mechanics Approaches for Modelling Localized Deformatio
-ns (NMAMLD)
+Short course on Nonlocal Mechanics Approaches for Modelling Localized Deformations (NMAMLD)
 \end_layout
 
 \end_inset
@@ -2809,17 +3063,19 @@ status collapsed
 Lecture was delivered by the Prof.
  J.
  N.
- Reddy of the University of Texas, College Station, USA.
+ Reddy of the University of Texas,
+ College Station,
+ USA.
  
 \begin_inset Newline newline
 \end_inset
 
-Learned about the basic of the non-classical continuum to model the mechanics
- of the nano structures.
+Learned about the basic of the non-classical continuum to model the mechanics of the nano structures.
 \end_layout
 
 \begin_layout Subsection
-NIT Warangal, Dept.
+NIT Warangal,
+ Dept.
  of Mechanical Engineering
 \end_layout
 
@@ -2828,7 +3084,9 @@ NIT Warangal, Dept.
 status open
 
 \begin_layout Plain Layout
-Nov, 11 – 15, 2019
+Nov,
+ 11 – 15,
+ 2019
 \end_layout
 
 \end_inset
@@ -2838,7 +3096,8 @@ Nov, 11 – 15, 2019
 status collapsed
 
 \begin_layout Plain Layout
-GIAN Course on Isogeometric analysis (IGA): Basis and Advanced Application
+GIAN Course on Isogeometric analysis (IGA):
+ Basis and Advanced Application
 \end_layout
 
 \end_inset
@@ -2873,9 +3132,11 @@ status collapsed
 
 \end_inset
 
-Lecture was delivered by the pioneer of Isogeometric Analysis, Prof.
+Lecture was delivered by the pioneer of Isogeometric Analysis,
+ Prof.
  A.
- Reali of the University of Pavia, Italy.
+ Reali of the University of Pavia,
+ Italy.
  
 \begin_inset Newline newline
 \end_inset
@@ -2897,7 +3158,8 @@ Internships and Projects
 status open
 
 \begin_layout Plain Layout
-May, 2013
+May,
+ 2013
 \end_layout
 
 \end_inset
@@ -2942,8 +3204,7 @@ status collapsed
 
 \end_inset
 
-Gained experience about the various manufacturing and testing of the different
- composite structural components.
+Gained experience about the various manufacturing and testing of the different composite structural components.
 \end_layout
 
 \begin_layout Entry
@@ -2951,7 +3212,8 @@ Gained experience about the various manufacturing and testing of the different
 status open
 
 \begin_layout Plain Layout
-Sept, 2013
+Sept,
+ 2013
 \end_layout
 
 \end_inset
@@ -2996,14 +3258,17 @@ status collapsed
 
 \end_inset
 
-Gained hand on experience on demonstration of stability modes such as phugoid
- mode, Dutch roll, stalling and controls of propeller aircraft Hansa-3.
+Gained hand on experience on demonstration of stability modes such as phugoid mode,
+ Dutch roll,
+ stalling and controls of propeller aircraft Hansa-3.
  
 \begin_inset Newline newline
 \end_inset
 
-Calculated centre of gravity, neutral point, maneuvering point, rate of
- climb and side slip coefficient for propeller aircraft Hansa-3 and Cessna.
+Calculated centre of gravity,
+ neutral point,
+ maneuvering point,
+ rate of climb and side slip coefficient for propeller aircraft Hansa-3 and Cessna.
 \end_layout
 
 \begin_layout Entry
@@ -3011,7 +3276,8 @@ Calculated centre of gravity, neutral point, maneuvering point, rate of
 status open
 
 \begin_layout Plain Layout
-July, 2014 – 
+July,
+ 2014 – 
 \begin_inset ERT
 status open
 
@@ -3026,7 +3292,8 @@ status open
 
 \end_inset
 
-May, 2015
+May,
+ 2015
 \end_layout
 
 \end_inset
@@ -3071,15 +3338,14 @@ status collapsed
 
 \end_inset
 
-Developed offline UI using PHP which allows lab in-charge to keep records
- of all issued items to students and allow modification to items data and
- user accounts.
+Developed offline UI using PHP which allows lab in-charge to keep records of all issued items to students and allow modification to items data and user accounts.
  
 \begin_inset Newline newline
 \end_inset
 
-Established system is currently handing data of 400 students in Aero modelling
- Laboratory, Department of Aerospace, IIT Kharagpur.
+Established system is currently handing data of 400 students in Aero modelling Laboratory,
+ Department of Aerospace,
+ IIT Kharagpur.
 \end_layout
 
 \begin_layout Entry
@@ -3087,7 +3353,8 @@ Established system is currently handing data of 400 students in Aero modelling
 status open
 
 \begin_layout Plain Layout
-Jan, 2013 – 
+Jan,
+ 2013 – 
 \begin_inset ERT
 status open
 
@@ -3102,7 +3369,8 @@ status open
 
 \end_inset
 
-March, 2013
+March,
+ 2013
 \end_layout
 
 \end_inset
@@ -3147,20 +3415,18 @@ status collapsed
 
 \end_inset
 
-Developed Java Software using Swing which process and records inputs data
- through smart card.
+Developed Java Software using Swing which process and records inputs data through smart card.
  
 \begin_inset Newline newline
 \end_inset
 
-Engineered input device to read QR code data using cam and convert it to
- input format to the software.
+Engineered input device to read QR code data using cam and convert it to input format to the software.
  
 \begin_inset Newline newline
 \end_inset
 
-After successfully implementation, system able to cut costs by INR 210000
- in a year
+After successfully implementation,
+ system able to cut costs by INR 210000 in a year
 \end_layout
 
 \begin_layout Entry
@@ -3168,7 +3434,8 @@ After successfully implementation, system able to cut costs by INR 210000
 status open
 
 \begin_layout Plain Layout
-Jan, 2013 – 
+Jan,
+ 2013 – 
 \begin_inset ERT
 status open
 
@@ -3183,7 +3450,8 @@ status open
 
 \end_inset
 
-March, 2013
+March,
+ 2013
 \end_layout
 
 \end_inset
@@ -3228,8 +3496,7 @@ status collapsed
 
 \end_inset
 
-Designed an online user interface using PHP allowing user to list issued/reserve
-d/available in hall library.
+Designed an online user interface using PHP allowing user to list issued/reserved/available in hall library.
  
 \begin_inset Newline newline
 \end_inset
@@ -3465,8 +3732,9 @@ status collapsed
 status collapsed
 
 \begin_layout Plain Layout
-Working with Susamskar Foundation, an NGO, which instill the value education
- in the young minds (
+Working with Susamskar Foundation,
+ an NGO,
+ which instill the value education in the young minds (
 \shape italic
 \color orange
 
@@ -3555,7 +3823,9 @@ Department of Aerospace Engineering
 \begin_inset Newline newline
 \end_inset
 
- Kharagpur, West Bengal - 721302, India
+ Kharagpur,
+ West Bengal - 721302,
+ India
 \begin_inset Newline newline
 \end_inset
 
@@ -3649,34 +3919,13 @@ Department of Aerospace Engineering
 \begin_inset Newline newline
 \end_inset
 
- Kharagpur, West Bengal - 721302, India
+ Kharagpur,
+ West Bengal - 721302,
+ India
 \begin_inset Newline newline
 \end_inset
 
  
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
-\backslash
-Telefon
-\backslash
- +(601) 877-6236
-\backslash
-
-\backslash
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
 \begin_inset ERT
 status collapsed
 
@@ -3786,7 +4035,9 @@ Department of Computer Science and Engineering
 \begin_inset Newline newline
 \end_inset
 
- Kharagpur, West Bengal - 721302, India
+ Kharagpur,
+ West Bengal - 721302,
+ India
 \begin_inset Newline newline
 \end_inset
 
@@ -3878,7 +4129,10 @@ Department of Mechanical and Industrial Engineering
 \begin_inset Newline newline
 \end_inset
 
- 350 Victoria Street, Toronto, ON - M5B 2K3, Canada
+ 350 Victoria Street,
+ Toronto,
+ ON - M5B 2K3,
+ Canada
 \begin_inset Newline newline
 \end_inset
 

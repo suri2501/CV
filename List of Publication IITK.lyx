@@ -17,17 +17,16 @@
 %\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
-%\usepackage[utf8]{inputenc}
+
 
 %\usepackage{booktabs}
 \usepackage{fontawesome}
 \usepackage{marvosym}% For cool symbols.
-\usepackage{lmodern}
 %\usepackage{hyperref}
 
 %\usepackage[T1]{fontenc}
-
 %\usepackage{inputenc}
+\usepackage{lmodern}
 
 
 %	NAME AND CONTACT INFORMATION SECTION
@@ -36,11 +35,11 @@
 
 % All information in this block is optional, comment out any lines you don't need
 \title{Curriculum Vitae}
-\address{Department of Mechanical and Industrial Engineering}{Toronto Metropolitan University}
-\mobile{(+91) 8436929997, (+1) 6476579151}
+\address{Department of Mechanical and Aerospace Engineering}{National Institute of Technology Delhi}
+\mobile{(+91) 8436929997}
 %\fax{(000) 111 1113}
 %\social{github}{stefano-bragaglia}
-\email{surendraverma2501@gmail.com} 
+\email{surendraverma2501@gmail.com, suri@nitdelhi.ac.in} 
 \homepage{https://suri2501.github.io/}{Website}
 % social link \faGithub, \faSkype, \faLinkedin,\faStackExchange, and \faStackOverflow
 \extrainfo{
@@ -78,7 +77,7 @@
 %     \ifthenelse{\equal{#6}{}}{}{\emailsymbol~\texttt{#6}\newline}%
 %     \ifthenelse{\equal{#7}{}}{}{\phonesymbol~#7}}
 \end_preamble
-\options sans, defaultbib
+\options sans,defaultbib
 \use_default_options false
 \maintain_unincluded_children no
 \language english
@@ -185,6 +184,146 @@ Journal Articles
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+\align right
+\begin_inset space \hspace{}
+\length 1ex
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+Linear and nonlinear bending and buckling analysis of multilayered composite curved panels due to mechanical load using HSDTs
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+\align right
+\begin_inset space \hspace{}
+\length 1ex
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status collapsed
+
+\begin_layout Plain Layout
+Isogeometric free vibration analysis of rotating preset laminated and functionally graded plates using cubic IGA-TSDT model nonlinear quasi-static approach
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintAll"
@@ -212,34 +351,87 @@ options "plainyrrev"
 
 \end_layout
 
-\begin_layout Section
-Patent
+\begin_layout Subsection
+In Conference Proceedings
 \end_layout
 
-\begin_layout Item
-\begin_inset Argument 1
-status collapsed
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
 
 \begin_layout Plain Layout
-Filled
+\align right
+2024
+\begin_inset space \hspace{}
+\length 1ex
+\end_inset
+
+
 \end_layout
 
 \end_inset
 
 
-\series bold
-A holder for stirrer
-\series default
-,
- Inventor:
- Rabindra Prasad;
- Co-Inventors:
- Harikishor Kumar,
- Parshant Kumar,
- Abha Gupta,
- and Surendra Verma.
- Application No.
- 202211036036
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+A unified buckling formulation for linear and nonlinear analysis of laminated plates using penalty based C0 FEM-HSDT model,
+ CSME 2024 at University of Toronto
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "conference"
+options "plainyrrev"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
